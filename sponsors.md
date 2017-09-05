@@ -37,7 +37,7 @@ Our Accessibility Sponsors help make our events welcoming to as many as possible
 
 Accessibility Sponsors may receive:
 
-- 2 free tickets to SRCCON:WORK.
+- 1 free ticket to SRCCON:WORK.
 - Special mention on stage during general session.
 - Logo on SRCCON:WORK website (in partners section) visible on every page.
 - Logo and description of product/company on sponsorship page of SRCCON:WORK website (1 paragraph max).
