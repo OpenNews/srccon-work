@@ -4,9 +4,9 @@ title: Logistics
 subtitle: 
 section: logistics
 sub-section: interior
-background: oldcity
-byline: R'lyeh Imaging
-bylineurl: https://secure.flickr.com/photos/radio_free_rlyeh/5744633267
+background: philly
+byline: Ben Grey
+bylineurl: https://www.flickr.com/photos/ben_grey/5875235043/
 permalink: /logistics/index.html
 redirect_from:
  - /location/index.html

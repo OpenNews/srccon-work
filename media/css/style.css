@@ -39,20 +39,32 @@ header.coffee {
   background-size: cover;
 }
 header.lifevests {
-  background-image: url(/media/img/backgrounds/lifevests.jpg)
+  background-image: url(/media/img/backgrounds/lifevests.jpg);
+  background-size: cover;
 }
 header.oldcity {
-  background-image: url(/media/img/backgrounds/sessions.jpg);
+  background-image: url(/media/img/backgrounds/oldcity.jpg);
+  background-size: cover;
+}
+header.chemical {
+  background-image: url(/media/img/backgrounds/chemical.jpg);
+  background-size: cover;
+}
+header.philly {
+  background-image: url(/media/img/backgrounds/philly.jpg);
   background-size: cover;
 }
 header.stickerdots {
   background-image: url(/media/img/backgrounds/sessions.jpg);
   background-size: cover;
+  background-position: 0 -190px;
 }
 
 header.coffee h3, header.coffee h2,
 header.lifevests h3, header.lifevests h2,
 header.oldcity h3, header.oldcity h2,
+header.chemical h3, header.chemical h2,
+header.philly h3, header.philly h2,
 header.stickerdots h3, header.stickerdots h2 {
   text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
 }

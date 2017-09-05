@@ -1,11 +1,12 @@
 ---
 layout: layout
 title: Sessions at SRCCON:WORK
-subtitle: Our collaborative sessions combine passion, creativity, and experience. Proposals open September 6.
+subtitle: Our collaborative sessions combine passion, creativity, and experience. Proposals are open through September 18.
 section: sessions
 sub-section: interior
-background: stickerdots
-byline: Erik Westra
+background: chemical
+byline: Peter Miller
+bylineurl: https://www.flickr.com/photos/pmillera4/8267602001/
 permalink: /sessions/index.html
 ---
 
