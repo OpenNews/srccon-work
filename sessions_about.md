@@ -6,7 +6,7 @@ section: sessions
 sub-section: interior
 background: stickerdots
 byline: Erik Westra
-permalink: /sessions/about/index.html
+permalink: /sessions/index.html
 ---
 
 SRCCON is built around two days of peer-led discussions and hands-on workshops. The community members who step up to facilitate these sessions make it all possible.
