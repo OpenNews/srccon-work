@@ -1,5 +1,6 @@
 ---
 layout: layout
+title: Sponsor SRCCON:WORK
 subtitle: Sponsors will help make this event happen. Get in touch!
 section: sponsors
 sub-section: interior

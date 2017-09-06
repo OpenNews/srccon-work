@@ -57,4 +57,4 @@ Tickets will be $195.
 
 ## What's next?
 
-We'll have a lot more to share later this month about ticket sales and the participant experience we’re planning for SRCCON:WORK. Stay in touch by following [@srccon on Twitter](https://twitter.com/srccon) or [signing up for our mailing list](http://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc).
+We'll have a lot more to share later this month about the participant experience we’re planning for SRCCON:WORK. Stay in touch by following [@srccon on Twitter](https://twitter.com/srccon) or [signing up for our mailing list](http://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc).
