@@ -38,8 +38,34 @@ header.coffee {
   background-image: url(/media/img/backgrounds/sponsors.jpg);
   background-size: cover;
 }
+header.lifevests {
+  background-image: url(/media/img/backgrounds/lifevests.jpg);
+  background-size: cover;
+}
+header.oldcity {
+  background-image: url(/media/img/backgrounds/oldcity.jpg);
+  background-size: cover;
+}
+header.chemical {
+  background-image: url(/media/img/backgrounds/chemical.jpg);
+  background-size: cover;
+}
+header.philly {
+  background-image: url(/media/img/backgrounds/philly.jpg);
+  background-size: cover;
+}
+header.stickerdots {
+  background-image: url(/media/img/backgrounds/sessions.jpg);
+  background-size: cover;
+  background-position: 0 -190px;
+}
 
-header.coffee h3, header.coffee h2 {
+header.coffee h3, header.coffee h2,
+header.lifevests h3, header.lifevests h2,
+header.oldcity h3, header.oldcity h2,
+header.chemical h3, header.chemical h2,
+header.philly h3, header.philly h2,
+header.stickerdots h3, header.stickerdots h2 {
   text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
 }
 
@@ -69,12 +95,12 @@ header.tickets #headertop {
 }
 
 
-a#cornerlogo img {
+a#sitelogo img {
   display: block;
-  width: 720px;
+  width: 420px;
   margin-left: auto;
   margin-right: auto;
-  margin-top: -55px;
+  margin-top: -95px;
   margin-bottom: 35px;
 }
 
@@ -136,13 +162,24 @@ header nav ul li {
 }
 
 header nav ul li a {
-  color: white;
-  text-decoration: none;
+    color: white;
+    text-decoration: none;
+    border-bottom: 1px solid #eee;
 }
 
 header nav ul li a:hover {
-  color: white;
-  border-bottom: 1px solid white;
+    color: white;
+    border-bottom-color: white;
+}
+
+.homepage header nav ul li a {
+    color: #111;
+    border-bottom-color: #888;
+}
+
+.homepage header nav ul li a:hover {
+    color: #111;
+    border-bottom-color: #111;
 }
 
 div.pink {
@@ -187,7 +224,6 @@ div.pink:before, div.blue:before {
 
 div.blue:after {
   background: #c5ecec;
-}
 }
 
 
@@ -1149,10 +1185,9 @@ td {
 }
 
 @media screen and (max-width: 800px) {
-    a#cornerlogo img {
-      width: 600px;
-      margin-top: -45px;
-      margin-bottom: 40px;
+    a#sitelogo img {
+      width: 360px;
+      margin-top: -80px;
     }
     
     p, #contentbox li, .homepage .buttontext p, .homepage p.bottomrun {
@@ -1204,9 +1239,6 @@ td {
       padding-top: 40px;
     }
 
-   #headbox h3 br {
-   }
-
     #headbox h3.homepage, #headbox h4.homepage {
         margin-left: 0px;
         font-size: 1.4em;
@@ -1226,6 +1258,16 @@ td {
     header.homepage {
         background-size: cover;
         height: 400px;
+    }
+    .homepage #headertop {
+        height: 40px;
+        background-color: white;
+    }
+    header nav {
+        font-size: 1em;
+    }
+    header nav ul {
+        margin-top: .4em;
     }
 
     body.interior .byline {
@@ -1307,10 +1349,7 @@ td {
 }
 
 @media screen and (max-width: 740px) {
-    a#cornerlogo img {
-      width: 560px;
-      margin-top: -40px;
-      margin-bottom: 30px;
+    a#sitelogo img {
     }
     #contentbox h2.leader {
         font-size: 1.6em;
@@ -1405,9 +1444,9 @@ td {
 }
 
 @media screen and (max-width: 640px) {
-    a#cornerlogo img {
-      width: 520px;
-      margin-top: -45px;
+    a#sitelogo img {
+      width: 320px;
+      margin-top: -102px;
       margin-bottom: 20px;
     }
 
@@ -1442,9 +1481,6 @@ td {
     header {
         margin-bottom: 30px;
     }
-    header .byline {
-        top: 230px;
-    }
     #headbox {
         padding-top: 60px;
     }
@@ -1475,13 +1511,13 @@ td {
     .buttontext {
       width: 100%;
     }
+    header.homepage .byline, body.interior .byline{
+      top: 5px;
+    }
 }
 
 @media screen and (max-width: 560px) {
-    a#cornerlogo img {
-      width: 440px;
-      margin-top: -46px;
-      margin-bottom: 30px;
+    a#sitelogo img {
     }
 
     #headbox h3.homepage, #headbox h4.homepage {
@@ -1532,10 +1568,10 @@ td {
     }
 }
 @media screen and (max-width: 480px) {
-    a#cornerlogo img {
-      width: 90%;
-      margin-left: 5%;
-      margin-right: 4%;
+    a#sitelogo img {
+      width: 80%;
+      margin-left: 10%;
+      margin-right: 9%;
       margin-top: 0;
       margin-bottom: 30px;
     }
@@ -1578,7 +1614,7 @@ td {
     header nav ul {
         margin-top: .33em;
     }
-    header a#cornerlogo img {
+    header a#sitelogo img {
         width: 100px;
         top: 10px;
         left: -25px;
@@ -1586,10 +1622,6 @@ td {
 
     header, header.homepage {
         height: 250px;
-    }
-
-    header.homepage .byline, body.interior .byline{
-      top: 5px;
     }
 
     body.interior #headbox {
@@ -1624,6 +1656,13 @@ td {
     }
 }
 @media screen and (max-width: 360px) {
+    a#sitelogo img {
+      width: 90%;
+      margin-left: 5%;
+      margin-right: 4%;
+      margin-top: 0;
+      margin-bottom: 30px;
+    }
     #headbox h2 {
         font-size: 1.8em;
         line-height: 1.1em;
@@ -1677,7 +1716,7 @@ td {
 }
 
 @media screen and (max-width: 320px) {
-  header a#cornerlogo img {
+  header a#sitelogo img {
     width: 100px;
     top: 30px;
     left: -30px;
