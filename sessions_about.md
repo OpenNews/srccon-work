@@ -23,9 +23,9 @@ We'll be accepting proposals through Monday, Sept. 18, at 11:59pm ET. We invite 
 SRCCON:WORK will explore how we as a community can make journalism more inclusive, representative, and responsive. Many of the biggest problems we face aren't technical at all, so our program will focus on three big themes:
 
 
-- Collaboration & teamwork: developing strategies to manage and mentor each other, and build happy, functional teams that communicate and coordinate across newsrooms.
-- Hiring & career growth: bringing in diverse, skilled voices and making newsrooms a place they want to stay.
-- Mental health & self-care: staying healthy—as individuals and as a community—so that even when the work gets hard, we don’t lose sight of the meaning we find in it.
+- **Collaboration & teamwork:** developing strategies to manage and mentor each other, and build happy, functional teams that communicate and coordinate across newsrooms.
+- **Hiring & career growth:** bringing in diverse, skilled voices and making newsrooms a place they want to stay.
+- **Mental health & self-care:** staying healthy—as individuals and as a community—so that even when the work gets hard, we don’t lose sight of the meaning we find in it.
 
 We want SRCCON:WORK to take on teamwork, careers, and care through:
 
