@@ -8,11 +8,9 @@ permalink: /index.html
 
 <!--<h2 class="leader">If we’re going to transform newsroom code and culture, we need to invest in the people who do the work.</h2>-->
 
-## Our call for session proposals is open!
+## Thank you, session proposers!
 
-<a class="btn" href="/sessions/proposals/pitch" style="float: right; margin: 1em .5em 1em 1em; display: inline-block; width: auto;">Propose a Session</a>
-
-We'll be accepting proposals through Monday, September 18, at 11:59pm ET. Our program will be built around collaborative sessions—we invite you to read more about [sessions at SRCCON:WORK](/sessions), and share your ideas for:
+Collaborative, peer-led sessions will be at the core of SRCCON:WORK, and we're so grateful for all the ideas you shared for this brand-new event. Right now we're reviewing proposals, and in early October we'll publish a program built around:
 
 - discussions that help us learn from each other, and leave with heads full of ideas that can transform the way we work.
 - sessions that make something to live on beyond this event, from shareable guidelines and best practices to lesson outlines that attendees can take back to their own newsrooms.
