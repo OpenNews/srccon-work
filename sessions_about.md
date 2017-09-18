@@ -1,7 +1,7 @@
 ---
 layout: layout
 title: Sessions at SRCCON:WORK
-subtitle: Our collaborative sessions combine passion, creativity, and experience. Proposals are open through September 18.
+subtitle: Our collaborative sessions lead discussions and project development around teamwork, careers, and care.
 section: sessions
 sub-section: interior
 background: chemical
