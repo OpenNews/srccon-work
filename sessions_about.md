@@ -1,7 +1,7 @@
 ---
 layout: layout
 title: Sessions at SRCCON:WORK
-subtitle: Our collaborative sessions combine passion, creativity, and experience. Proposals are open through September 18.
+subtitle: Our collaborative sessions lead discussions and project development around teamwork, careers, and care.
 section: sessions
 sub-section: interior
 background: chemical
@@ -10,14 +10,12 @@ bylineurl: https://www.flickr.com/photos/pmillera4/8267602001/
 permalink: /sessions/index.html
 ---
 
-SRCCON is built around two days of peer-led discussions and hands-on workshops. The community members who step up to facilitate these sessions make it all possible.
+SRCCON:WORK is built around two days of peer-led discussions and hands-on workshops. The community members who step up to facilitate these sessions make it all possible.
 
-## Our Call for Proposals is Open!
+## We're reviewing sessions RIGHT NOW
 
-<a class="btn" href="/sessions/proposals/pitch" style="float: right; margin: 1em .5em 1em 1em; display: inline-block; width: auto;">Propose a Session</a>
-
-We'll be accepting proposals through Monday, Sept. 18, at 11:59pm ET. We invite you to share your ideas for the conference schedule!
-
+Thank you to everyone who pitched a session for SRCCON:WORK. We're currently reviewing all proposals, and we'll publish the list of accepted sessions in early October.
+ 
 ## Session Themes at SRCCON:WORK
 
 SRCCON:WORK will explore how we as a community can make journalism more inclusive, representative, and responsive. Many of the biggest problems we face aren't technical at all, so our program will focus on three big themes:

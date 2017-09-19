@@ -11,6 +11,9 @@ redirect_from:
   - /proposals/pitch/
 ---
 
+Proposals for SRCCON:WORK are now closed. Thank you so much for your enthusiastic response! We're currently reviewing all proposals, and we'll publish the list of accepted sessions in early October.
+
+{% comment %}
 We can’t wait to hear about your idea for SRCCON:WORK! This event will explore ways our community can make journalism more inclusive, representative, and responsive. We’re inviting proposals on three important themes:
 
 * **Collaboration & teamwork.** Let’s share strategies that help us manage and mentor each other, and develop happy, functional teams that communicate and coordinate across newsrooms.
@@ -32,3 +35,4 @@ We’d love to have you help us bring these topics to the program through guided
 
   new FormRenderer({"project_id":"oNL9olsQno76pwnj", "afterSubmit": "/sessions/proposals/thanks"});
 </script>
+{% endcomment %}
