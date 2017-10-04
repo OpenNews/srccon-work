@@ -23,7 +23,7 @@ A ticket to SRCCON:WORK and $500 for you to use toward the cost of travel to the
 * White journalists who work with technology from local and regional news organizations
 
 ## How to apply
-Select the "Would you like to be considered for a SRCCON:WORK scholarship?" option on the form to tell us why you'd like to attend SRCCON:WORK. A few scholarship-specific questions will then pop onto the form.
+Select the "Would you like to be considered for a SRCCON:WORK scholarship?" option on the form to tell us why you'd like to attend SRCCON:WORK. A few scholarship-specific questions will then pop onto the form. The form will be open October 11-18.
 
 ## When notifications go out
 Notifications for scholarships will go out alongside invitations to attend.
