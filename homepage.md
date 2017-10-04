@@ -18,7 +18,7 @@ Instead of a ticket lottery, we will open a form on October 11 with a few questi
 
 ## Attendee scholarships
 
-We are also partnering with the News Integrity Initiative to provide [Diversity Scholarships](/scholarships) for journalists of color to attend SRCCON:WORK. We will also have a small number of scholarships for facilitators and white journalists from local and regional news organizations. The scholarship application will be part of the form to tell us why you'd like to attend SRCCON:WORK.
+We are also partnering with the News Integrity Initiative to provide [Diversity Scholarships](/scholarships) for journalists of color to attend SRCCON:WORK. We will also have a small number of scholarships available to facilitators and white journalists from local and regional news organizations. The scholarship application will be part of the form to tell us why you'd like to attend SRCCON:WORK.
 
 ## When, where, and other logistics
 
@@ -27,8 +27,6 @@ SRCCON:WORK will take place on December 7 & 8 at the Chemical Heritage Foundatio
 ## What is SRCCON:WORK?
 
 SRCCON:WORK explores how we as a community can help each other take on the hard work of journalism. This new, two-day event builds on conversations emerging from [SRCCON](https://srccon.org), our hands-on conference that gathers members of the news-code community each summer to take on the cultural and technical ideas that push newsrooms forward.
-
-Our program has collaboration at its heart, with sessions proposed and led by community members, and a schedule built to support them. SRCCON:WORK is also intentionally small, designed to create spaces that bring us all together and room to meet new colleagues. This event will have a lot in common with SRCCON, but add a few new things as well. 
 
 ## What's next?
 
