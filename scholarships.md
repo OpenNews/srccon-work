@@ -10,7 +10,7 @@ permalink: /scholarships/index.html
 
 If you want to attend SRCCON:WORK, we don&rsquo;t want cost to prevent you from coming, which is why we work to keep ticket prices low. To help defray the cost of attending SRCCON:WORK, OpenNews offers a limited number of travel scholarships.
 
-This year, we're partnering with the News Integrity Initiative to provide Diversity Scholarships for journalists of color to attend SRCCON:WORK. We will also have a small number of scholarships for facilitators and white journalists from local and regional news organizations.
+This year, we're partnering with the News Integrity Initiative to provide Diversity Scholarships for journalists of color to attend SRCCON:WORK. We will also have a small number of scholarships vailable too facilitators and white journalists from local and regional news organizations.
 
 The scholarship application will be part of the form to tell us why you'd like to attend SRCCON:WORK.
 
