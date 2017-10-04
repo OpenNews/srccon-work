@@ -6,53 +6,30 @@ byline: Erik Westra
 permalink: /index.html
 ---
 
-<!--<h2 class="leader">If we’re going to transform newsroom code and culture, we need to invest in the people who do the work.</h2>-->
+<h2 class="leader">If we’re going to transform newsroom code and culture, we need to invest in the people who do the work.</h2>
 
-## Thank you, session proposers!
+SRCCON:WORK is built around two days of peer-led discussions and hands-on workshops on how we shape newsroom culture to be more inclusive and collaborative.
 
-Collaborative, peer-led sessions will be at the core of SRCCON:WORK, and we're so grateful for all the ideas you shared for this brand-new event. Right now we're reviewing proposals, and in early October we'll publish a program built around:
+**[The sessions list is now live!](/sessions)** 
 
-- discussions that help us learn from each other, and leave with heads full of ideas that can transform the way we work.
-- sessions that make something to live on beyond this event, from shareable guidelines and best practices to lesson outlines that attendees can take back to their own newsrooms.
+## Details about tickets
 
-## When & where
+Instead of a ticket lottery, we will open a form on October 11 with a few questions for you to tell us why you'd like to attend SRCCON:WORK. We'll send out invitations to attend in mid-October.  We’re doing this so we can focus on participants who are most affected by [the issues we're covering](/sessions) and are seeking to make a change in their career or their workplace. Tickets will be $195. You can read more about why we’re using this new process [on our blog](https://opennews.org/blog/srccon-work-tickets/).
 
-December 7 & 8 in Philadelphia. Here's more about [our venue, schedule, and attendance information coming soon](/logistics).
+## Attendee scholarships
+
+We are also partnering with the News Integrity Initiative to provide [Diversity Scholarships](/scholarships) for journalists of color to attend SRCCON:WORK. We will also have a small number of scholarships for facilitators and white journalists from local and regional news organizations. The scholarship application will be part of the form to tell us why you'd like to attend SRCCON:WORK.
+
+## When, where, and other logistics
+
+SRCCON:WORK will take place on December 7 & 8 at the Chemical Heritage Foundation in Philadelphia. You can find more info on lodging, childcare support, live transcriptions, and other info on our [logistics page](/logistics).
 
 ## What is SRCCON:WORK?
 
 SRCCON:WORK explores how we as a community can help each other take on the hard work of journalism. This new, two-day event builds on conversations emerging from [SRCCON](https://srccon.org), our hands-on conference that gathers members of the news-code community each summer to take on the cultural and technical ideas that push newsrooms forward.
 
-Many of the problems that keep us from our best work aren't technical at all, so we're focusing this small conference on three big themes:
-
-- **Collaboration & teamwork.** Tech teams often end up in silos, but building relationships can amplify complementary skills, and lead to the kind of code and stories that change readers’ lives. Let’s share strategies that help us manage and mentor each other, and develop happy, functional teams that communicate and coordinate across newsrooms.
-- **Hiring & career growth.** We have so much to learn about onboarding new colleagues and helping technical journalists build meaningful careers. We can't give our communities the coverage they deserve without bringing in diverse, skilled voices and making newsrooms a place they want to stay.
-- **Mental health & self-care.** We're living in tough times for journalism right now, and that's before we even talk about business models. Let's talk about how to stay healthy—as individuals and as a community—so that even when the work gets hard, we don’t lose sight of the meaning we find in it.
-
-## How will it work?
-
-Our program has collaboration at its heart, with sessions proposed and led by community members, and a schedule built to support them. SRCCON:WORK is also intentionally small, designed to create spaces that bring us all together and room to meet new colleagues. This event will have a lot in common with SRCCON, but add a few new things as well. Here's how we're thinking about SRCCON:WORK:
-
-- It's focused and thematic. Some of the biggest problems keeping us from our best work aren't technical. At this event, we'll be talking about teamwork, careers, and care.
-- It's opinionated. Great journalism has to be inclusive, representative, and responsive. If we’re going to transform newsroom code and culture, we need to start by investing in people.
-- We learn best from each other. The core of our program will be collaborative, small-group sessions where facilitators and attendees take on conversations and projects as peers.
-- Shared experiences strengthen our community. We'll also find moments to bring everyone together, starting with a series of talks that challenge us and provide context for discussions throughout the day.
-- Being part of a cohort has lasting value. This conference is intentionally small, creating new opportunities to build relationships that last longer than two days.
-- This is where the work starts, not ends. We have your back even after SRCCON:WORK is over, and want to find tangible ways to support projects that come out of sessions and conversations.
-
-## Who is it for?
-
-We’ll gather more than 100 people from organizations of all sizes, including:
-
-- New journalists, whether you're fresh out of school or just joined a newsroom from another field. Why do we work the way we do, and what needs to change? How do you keep from burning out when you're on deadline all the time, and oh no the website just went down? What does a career in journalism actually look like?
-- People at a career crossroads. When the work is at its hardest, how do you make sure you and your colleagues stay healthy? If you love code or data or design, what happens when management seems like the only pathway to career growth?
-- Technical managers. How do you lead a team that's responsible for both tech and journalism? How do you get your own managers to listen, and bring change to an organization that needs it?
-- People on small teams. Does your organization's business model create a different set of pressures? How do you do the work when you don’t have (m/any) colleagues to turn to for support?
-
-## How much does it cost?
-
-Tickets will be $195.
+Our program has collaboration at its heart, with sessions proposed and led by community members, and a schedule built to support them. SRCCON:WORK is also intentionally small, designed to create spaces that bring us all together and room to meet new colleagues. This event will have a lot in common with SRCCON, but add a few new things as well. 
 
 ## What's next?
 
-We'll have a lot more to share later this month about the participant experience we’re planning for SRCCON:WORK. Stay in touch by following [@srccon on Twitter](https://twitter.com/srccon) or [signing up for our mailing list](http://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc).
+We'll have more to share as we get closer to SRCCON:WORK. Stay in touch by following [@srccon on Twitter](https://twitter.com/srccon) or [signing up for our mailing list](http://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc).
