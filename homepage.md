@@ -28,6 +28,8 @@ SRCCON:WORK will take place on December 7 & 8 at the Chemical Heritage Foundatio
 
 SRCCON:WORK explores how we as a community can help each other take on the hard work of journalism. This new, two-day event builds on conversations emerging from [SRCCON](https://srccon.org), our hands-on conference that gathers members of the news-code community each summer to take on the cultural and technical ideas that push newsrooms forward.
 
+Here’s how [sessions will work at SRCCON:WORK](/sessions/about), and here’s [the program we’re building so far](/sessions).
+
 ## What's next?
 
 We'll have more to share as we get closer to SRCCON:WORK. Stay in touch by following [@srccon on Twitter](https://twitter.com/srccon) or [signing up for our mailing list](http://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc).
