@@ -59,6 +59,11 @@ header.stickerdots {
   background-size: cover;
   background-position: 0 -190px;
 }
+header.scholarships {
+  background-image: url(/media/img/backgrounds/scholarships.jpg);
+  background-size: cover;
+  background-position: top;
+}
 
 header.coffee h3, header.coffee h2,
 header.lifevests h3, header.lifevests h2,
