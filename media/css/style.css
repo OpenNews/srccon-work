@@ -64,13 +64,19 @@ header.scholarships {
   background-size: cover;
   background-position: top;
 }
+header.tickets {
+  background-image: url(/media/img/backgrounds/tickets.jpg);
+  background-size: cover;
+}
 
 header.coffee h3, header.coffee h2,
 header.lifevests h3, header.lifevests h2,
 header.oldcity h3, header.oldcity h2,
 header.chemical h3, header.chemical h2,
 header.philly h3, header.philly h2,
-header.stickerdots h3, header.stickerdots h2 {
+header.stickerdots h3, header.stickerdots h2,
+header.scholarships h3, header.scholarships h2,
+header.tickets h3, header.tickets h2 {
   text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
 }
 
