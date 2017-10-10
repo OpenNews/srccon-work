@@ -12,7 +12,7 @@ If you want to attend SRCCON:WORK, we don&rsquo;t want cost to prevent you from 
 
 This year, we're partnering with the News Integrity Initiative to provide Diversity Scholarships for journalists of color to attend SRCCON:WORK. We will also have a small number of scholarships available to facilitators and white journalists from local and regional news organizations.
 
-The scholarship application will be part of the form to tell us why you'd like to attend SRCCON:WORK.
+The scholarship application will be [part of the questionnaire](/attendance_form) to tell us why you'd like to attend SRCCON:WORK.
 
 ## What we&rsquo;re offering
 A ticket to SRCCON:WORK and $500 for you to use toward the cost of travel to the event. (For scholarship recipients who live in the Philadelphia area, we offer a SRCCON:WORK ticket without the additional travel funding.)
