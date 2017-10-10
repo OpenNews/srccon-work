@@ -1,7 +1,7 @@
 ---
 layout: layout
 title: Tickets 
-subtitle: Tell us about why you'd like to attend. Our form is open till October 18.
+subtitle: Tell us about why you'd like to attend. Our form is open through October 18.
 section: sessions
 sub-section: interior
 background: tickets
@@ -16,7 +16,7 @@ At about 100 people, we're keeping the size of SRCCON:WORK small so that partici
 
 By focusing on practitioners whose work is most affected [by the themes we’re tackling](/sessions), we hope that SRCCON:WORK can be an incubator for long-term projects and ideas that people can take back to nurture more inclusive, responsive spaces in their newsrooms.
 
-The form is open until October 18. After that, we will review entries and notify everyone before the end of October. If invited to attend, you will have the chance to purchase a ticket for $195, plus fees.
+The form is open through October 18. After that, we will review entries and notify everyone before the end of October. If invited to attend, you will have the chance to purchase a ticket for $195, plus fees.
 
 ## Financial assistance
 
