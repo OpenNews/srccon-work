@@ -22,7 +22,7 @@ The form is open through October 18. After that, we will review entries and noti
 
 We offer a limited number of [travel scholarships](/scholarships) to help people who wouldn't otherwise be able to attend. To apply for a scholarship to SRCCON:WORK, just answer a few extra questions on the form.
 
-### Volunteering
+## Volunteering
 
 If you aren’t a part of our core audience but would like to see how we run SRCCON events, we need [volunteers](/volunteer) who can help us make this event a succcess.
 
