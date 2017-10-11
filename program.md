@@ -10,7 +10,7 @@ bylineurl: https://www.flickr.com/photos/pmillera4/8267602001/
 permalink: /program/index.html
 ---
 
-SRCCON:WORK work will focus on careers, teamwork, and care, and how these themes intersect in making journalism more inclusive and responsive. Each section of our schedule will begin with a pair of [10-minute talks](/talks) that push us to do the hard work it takes to make newsrooms better. The SRCCON:WORK schedule is also participatory at its core, through [hands-on sessions](/sessions) that dig into our conference themes.
+SRCCON:WORK will focus on careers, teamwork, and care, and how these themes intersect in making journalism more inclusive and responsive. During our conference Dec. 7 & 8 in Philadelphia, each part of the schedule will begin with a pair of [10-minute talks](/talks) that push us to do the hard work it takes to make newsrooms better. The SRCCON:WORK program is also participatory at its core, through [hands-on sessions](/sessions) that dig into our conference themes.
 
 ## Talks
 
