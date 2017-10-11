@@ -28,9 +28,9 @@ At about 100 people, we're keeping the size of SRCCON:WORK small so that partici
 
 Given what we've learned from our iterative approach to tickets for SRCCON and the need to be thoughtful in selecting cohorts with compatible experiences that are representative of the diversity of this community, [we are not doing a lottery for SRCCON:WORK](https://opennews.org/blog/srccon-work-tickets/). 
 
-On October 11, we will open a form with a few questions for you to tell us why you'd like to attend SRCCON:WORK. We'll send out invitations to attend in mid-October. Tickets will cost $195, plus fees.
+The [form is now open](/tickets/attendance_form) to tell us why you'd like to attend SRCCON:WORK. We'll send out invitations to attend by the end of October. Tickets will cost $195, plus fees.
 
-By focusing on practitioners whose work are most affected [by the themes we’re tackling](/sessions) we hope that SRCCON:WORK can be an incubator for long-term projects and ideas that people can take back to nurture more inclusive, responsive spaces in their newsrooms.
+You can learn more about our approach to tickets this year [on our tickets page](/tickets#the-srccon-work-tickets-process).
 
 ## Hotel
 

@@ -64,13 +64,31 @@ header.scholarships {
   background-size: cover;
   background-position: top;
 }
+header.sessions {
+  background-image: url(/media/img/backgrounds/sessions.jpg);
+  background-position: 0 -370px;
+  background-size: cover;
+}
+header.talks {
+  background-image: url(/media/img/backgrounds/talks.jpg);
+  background-position: 0 -300px;
+  background-size: cover;
+}
+header.tickets {
+  background-image: url(/media/img/backgrounds/tickets.jpg);
+  background-size: cover;
+}
 
 header.coffee h3, header.coffee h2,
 header.lifevests h3, header.lifevests h2,
 header.oldcity h3, header.oldcity h2,
 header.chemical h3, header.chemical h2,
 header.philly h3, header.philly h2,
-header.stickerdots h3, header.stickerdots h2 {
+header.stickerdots h3, header.stickerdots h2,
+header.scholarships h3, header.scholarships h2,
+header.sessions h3, header.sessions h2,
+header.talks h3, header.talks h2,
+header.tickets h3, header.tickets h2 {
   text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
 }
 
@@ -177,7 +195,8 @@ header nav ul li a:hover {
     border-bottom-color: white;
 }
 
-.homepage header nav ul li a {
+.homepage header nav ul li a,
+.talks header nav ul li a {
     color: #111;
     border-bottom-color: #888;
 }
@@ -924,7 +943,7 @@ footer .columns {
   border: none;
 }
 
-.homepage .btn,
+.btn.full-width,
 .live .btn {
   float: none;
   margin-left: auto;
@@ -1010,8 +1029,7 @@ form.fr_form div.size_large {
 }
 
 form.fr_form div.size_medium {
-  margin-top: 40px;
-  color: #52c6c6;
+  margin-top: 20px;
 }
 
 form.fr_form label, form.fr_form div.size_small {
@@ -1026,19 +1044,15 @@ form.fr_form div.fr_description {
   color: grey;
 }
 
-form.fr_form label[for=c29] {
-  margin-top: 40px;
-}
-
 form.fr_form .fr_response_field_paragraph textarea.size_medium, form.fr_form .fr_response_field_text input.size_medium, form.fr_form .fr_response_field_text input, form.fr_form .fr_response_field_paragraph textarea, form.fr_form input#c35 {
   width: 100%;
 }
 
-form.fr_form .fr_response_field_text input#c12, form.fr_form .fr_response_field_text input#c18 {
-  width: 160px;
+form.fr_form div.fr_response_field_block_of_text {
 }
 
-form.fr_form div.fr_response_field_block_of_text {
+form.fr_form h3, form.fr_form h4 {
+    margin-top: 2.5em;
 }
 
 

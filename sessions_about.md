@@ -10,16 +10,15 @@ bylineurl: https://www.flickr.com/photos/pmillera4/8267602001/
 permalink: /sessions/about/index.html
 ---
 
-SRCCON:WORK is built around two days of peer-led discussions and hands-on workshops. The community members who step up to facilitate these sessions make it all possible.
+SRCCON:WORK is built around [two days of talks, peer-led discussions, and hands-on workshops](/program). The community members who step up to speak and facilitate these sessions make it all possible.
 
 ## This year's program!
 
-After receiving nearly 50 amazing proposals, we've [accepted sessions](/sessions) for our first SRCCON:WORK. We'll publish a final schedule in November, including these breakout sessions as well as a series of talks to introduce each of our conference themes.
+After receiving nearly 50 amazing proposals, we've [accepted sessions](/sessions) for our first SRCCON:WORK. We'll publish a final schedule in November that includes these breakout sessions as well as [a series of talks](/talks) to introduce each of our conference themes.
  
 ## Session Themes at SRCCON:WORK
 
 SRCCON:WORK will explore how we as a community can make journalism more inclusive, representative, and responsive. Many of the biggest problems we face aren't technical at all, so our program will focus on three big themes:
-
 
 - **Collaboration & teamwork:** developing strategies to manage and mentor each other, and build happy, functional teams that communicate and coordinate across newsrooms.
 - **Hiring & career growth:** bringing in diverse, skilled voices and making newsrooms a place they want to stay.
