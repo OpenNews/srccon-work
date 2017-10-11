@@ -9,7 +9,7 @@ byline: Alyson Hurt
 permalink: /tickets/index.html
 ---
 
-<a class="btn" id="attend-button" href="/tickets/attendance_form">Tell Us If You'd Like To Attend!</a> [Our form is now open](/tickets/attendance_form/) with a few questions for you to tell us why you'd like to attend SRCCON:WORK. We'll send out invitations to attend by the end of October.
+<a class="btn" id="attend-button" href="/tickets/attendance_form">Tell Us If You'd Like To Attend!</a> [Our form is now open](/tickets/attendance_form/) with a few questions for you to tell us why you'd like to attend SRCCON:WORK, Dec. 7 & 8 in Philadelphia. We'll send out invitations to attend by the end of October.
 
 ## The SRCCON:WORK tickets process
 At about 100 people, we're keeping the size of SRCCON:WORK small so that participants can really get to know each other and collaborate on ideas to take back to their newsrooms. This more intimate format means that [we have to be even more intentional about equitably distributing tickets](https://opennews.org/blog/srccon-work-tickets/). We're focusing on participants who are seeking to make a change in their career or their workplace.  
