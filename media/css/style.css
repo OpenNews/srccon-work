@@ -71,7 +71,7 @@ header.sessions {
 }
 header.talks {
   background-image: url(/media/img/backgrounds/talks.jpg);
-  background-position: 0 -300px;
+  background-position: 0 -270px;
   background-size: cover;
 }
 header.tickets {
@@ -1190,6 +1190,9 @@ td {
 
     footer #sponsorbox .four div#sponsors ul li.accessibility img {
       height: 80px;
+    }
+    header.talks {
+      background-position: 0 -220px;
     }
 }
 
