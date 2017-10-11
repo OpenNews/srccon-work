@@ -9,7 +9,7 @@ byline: Alyson Hurt
 permalink: /tickets/attendance_form/index.html
 ---
 
-Tell us about what interests you in attending SRCCON:WORK! We'll send out invitations to attend in mid- to late October. If invited, you'll be able to purchase a single, non-transferrable ticket for $195, plus ticket fees.
+Tell us about what interests you in attending SRCCON:WORK! We'll send out invitations to attend by the end of October. If invited, you'll be able to purchase a single, non-transferrable ticket for $195, plus ticket fees. [Learn more about our tickets process](/tickets).
 
 This same form is where you apply for a [travel scholarship](/scholarships) to SRCCON:WORK. Please check the corresponding box on this form to open up the scholarship application.
 
