@@ -24,7 +24,7 @@ Here’s more about [how the program will work at SRCCON:WORK](/program) and the
 
 ## Who is SRCCON:WORK for?
 
-SRCCON:WORK is for folks seeking to make a change in their career or their workplace. Not sure if that’s you? Take a look at [our program](/program)—if a few or more of the sessions make you want to go “Yes, that!” then this conference is for you.
+SRCCON:WORK is for folks seeking to make a change in their career or their workplace. Not sure if that’s you? Take a look at [our program](/program)—if a few or more of the sessions and talks make you want to go “Yes, that!” then this conference is for you.
 
 [Tell us about why you'd like to attend by October 18](/tickets/attendance_form).
 
