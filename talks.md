@@ -5,7 +5,8 @@ subtitle: We'll introduce our conference themes with short talks that challenge 
 section: sessions
 sub-section: talks
 background: talks
-byline: Erik Westra
+byline: Anna
+bylineurl: https://secure.flickr.com/photos/spanner/3025145676/
 permalink: /talks/index.html
 ---
 
