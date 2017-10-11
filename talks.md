@@ -3,10 +3,9 @@ layout: layout
 title: Talks at SRCCON:WORK
 subtitle: We'll introduce our conference themes with short talks that challenge us as a community.
 section: sessions
-sub-section: interior
-background: chemical
-byline: Peter Miller
-bylineurl: https://www.flickr.com/photos/pmillera4/8267602001/
+sub-section: talks
+background: talks
+byline: Erik Westra
 permalink: /talks/index.html
 ---
 

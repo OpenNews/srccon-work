@@ -4,7 +4,7 @@ title: Scholarships
 subtitle: We offer a limited number of travel scholarships to help you make it to SRCCON:WORK.
 sub-section: interior
 background: scholarships
-byline:   Erik Westra
+byline: Erik Westra
 permalink: /scholarships/index.html
 ---
 

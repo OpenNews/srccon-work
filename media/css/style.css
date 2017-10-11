@@ -64,6 +64,16 @@ header.scholarships {
   background-size: cover;
   background-position: top;
 }
+header.sessions {
+  background-image: url(/media/img/backgrounds/sessions.jpg);
+  background-position: 0 -370px;
+  background-size: cover;
+}
+header.talks {
+  background-image: url(/media/img/backgrounds/talks2.jpg);
+  background-position: 0 -300px;
+  background-size: cover;
+}
 header.tickets {
   background-image: url(/media/img/backgrounds/tickets.jpg);
   background-size: cover;
@@ -76,6 +86,8 @@ header.chemical h3, header.chemical h2,
 header.philly h3, header.philly h2,
 header.stickerdots h3, header.stickerdots h2,
 header.scholarships h3, header.scholarships h2,
+header.sessions h3, header.sessions h2,
+header.talks h3, header.talks h2,
 header.tickets h3, header.tickets h2 {
   text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
 }
@@ -183,7 +195,8 @@ header nav ul li a:hover {
     border-bottom-color: white;
 }
 
-.homepage header nav ul li a {
+.homepage header nav ul li a,
+.talks header nav ul li a {
     color: #111;
     border-bottom-color: #888;
 }
