@@ -145,13 +145,13 @@ header .byline {
   position: absolute;
   max-width: 900px;
   left: 6px;
-  top: 470px;
+  top: 290px;
   margin-bottom: 0px;
   opacity: .8;
 }
 
-body.interior .byline {
-  top: 290px;
+body.homepage .byline {
+    top: 340px;
 }
 
 body.interior #headbox h2, body.interior #headbox h3 {
