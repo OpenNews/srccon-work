@@ -19,8 +19,8 @@
     }, 
     {
         "id": 3,
-        "cofacilitator": "Matt Boggie", 
-        "cofacilitator_twitter": "MattBoggie", 
+        "cofacilitator": "Emma Schwartz", 
+        "cofacilitator_twitter": "heyemmahey", 
         "description": "Technology & design teams in news organizations are often highly siloed, disparate not only from one another but also within each discipline. Distinct groups handle design and development, product design and editorial design, data visualization and branding. What advantages do we gain by building interdisciplinary teams that allow for better cross-functional collaboration? What does it mean to do this at the organizational level and not just for one-time projects? What does a cross-disciplinary team look like in practice? How do we reap the benefits of this kind of team collaboration and what are the unique challenges? We will discuss how we’ve intentionally been building cross-disciplinary design and technology teams at Axios, review the benefits we’ve seen, and lead a broader discussion about how to make the most of working closely with others who have different processes and perspectives.", 
         "facilitator": "Alexis Lloyd", 
         "facilitator_twitter": "alexislloyd", 
@@ -43,6 +43,15 @@
         "facilitator": "Brittany Mayes", 
         "facilitator_twitter": "BritRenee_", 
         "title": "Internships (hiring processes and beyond) can change lives—let's not mess it up."
+    }, 
+    {
+        "id": 18,
+        "cofacilitator": "", 
+        "cofacilitator_twitter": "", 
+        "description": "It's easy to jump in when a colleague needs help troubleshooting code or fixing a broken lede, but most of us don't feel nearly as equipped to support someone dealing with depression or addiction. As journalists, we're not just observers of the human condition—we have to wrestle with it like anyone else, so let's talk about perspectives:\n\n* as a person who's struggling, and having a hard enough time admitting it to ourselves, let along the people we work with\n* as a coworker who doesn't want to be intrusive, but _does_ want to be there to for someone who needs help\n\nHow do we figure out when it's appropriate to discuss personal information, and how much? If everyone has a pop-culture understanding of conditions like OCD or anxiety, how do we talk about an actual clinical diagnosis? How do we seek out—or serve as—a \"spotter,\" who can help identify the situations that might lead to crisis? This session will be an off-the-record conversation on ways to support each other in getting and staying healthy, and strategies for getting past the stigma of talking about mental health.", 
+        "facilitator": "Christine Stapleton", 
+        "facilitator_twitter": "", 
+        "title": "Mental health in the newsroom: Creating systems of support for ourselves and our colleagues"
     }, 
     {
         "id": 6,
@@ -129,7 +138,7 @@
         "id": 15,
         "cofacilitator": "", 
         "cofacilitator_twitter": "", 
-        "description": "The Vision & Goals Workshop is an interactive session to create your goals based on proven goal-setting techniques. You will learn how to align your actions towards accomplishing big-picture goals and get started with steering your career path.\n\nPast participants in the workshop from the company’s Digital Mentorship Program, Women’s Network, and the Young Professionals Network at New York Times have reported success in reaching their personal and professional goals, so join us to see what’s possible for you!\n", 
+        "description": "The Vision & Goals Workshop is an interactive session to create your goals based on proven goal-setting techniques. You will learn how to align your actions towards accomplishing big-picture goals and get started with steering your career path.\n\nPast participants in the workshop from the company’s Digital Mentorship Program, Women’s Network, and the Young Professionals Network at New York Times have reported success in reaching their personal and professional goals, so join us to see what’s possible for you!", 
         "facilitator": "Jessica Kosturko", 
         "facilitator_twitter": "jessicakosturko", 
         "title": "Vision & Goals Workshop"
@@ -138,7 +147,7 @@
         "id": 16,
         "cofacilitator": "Katie Hawkins-Gaar", 
         "cofacilitator_twitter": "katiehawk", 
-        "description": "Feedback is necessary for improvement. But in today's fast-paced newsrooms, it can be hard to carve out the time for it. And developers, designers and journalists can be so passionate about their work that any criticism feels like a personal attack. \n\nWithout a culture of critique, the journalism industry is missing out. We lack the skills to deliver valuable and constructive feedback, missing out on valuable opportunities to improve projects, stories and other initiatives. In this session, we'll offer ways to bring design thinking into the newsroom and, through group exercises and discussion, break down the benefits of critique. We'll share feedback experiences, does and don’ts, and ways we can create a culture of critique in our own newsrooms that result in better work for our audiences.\n", 
+        "description": "Feedback is necessary for improvement. But in today's fast-paced newsrooms, it can be hard to carve out the time for it. And developers, designers and journalists can be so passionate about their work that any criticism feels like a personal attack. \n\nWithout a culture of critique, the journalism industry is missing out. We lack the skills to deliver valuable and constructive feedback, missing out on valuable opportunities to improve projects, stories and other initiatives. In this session, we'll offer ways to bring design thinking into the newsroom and, through group exercises and discussion, break down the benefits of critique. We'll share feedback experiences, does and don’ts, and ways we can create a culture of critique in our own newsrooms that result in better work for our audiences.", 
         "facilitator": "Hannah Wise", 
         "facilitator_twitter": "hannahjwise", 
         "title": "What do you really think? How to create a culture of critique and produce better work"
