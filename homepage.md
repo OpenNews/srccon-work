@@ -8,9 +8,13 @@ permalink: /index.html
 
 <h2 class="leader">If we’re going to transform newsroom code and culture, we need to invest in the people who do the work.</h2>
 
-<a class="btn" id="attend-button" href="/tickets/attendance_form">Tell Us If You'd Like To Attend!</a> SRCCON:WORK is built around two days of [talks, discussions and hands-on workshops](/program) on how we shape newsroom culture to be more inclusive and collaborative. The conference will take place December 7 & 8 at the Chemical Heritage Foundation in Philadelphia.
+Thank you everyone for your interest in SRCCON:WORK!
 
-Instead of a ticket lottery, we have a short questionnaire for you to tell us why you'd like to attend SRCCON:WORK. The form is open through October 18. After that, we will review entries and notify everyone before the end of October. If invited to attend, you will have the chance to purchase a ticket for $195, plus fees.
+The SRCCON:WORK ticketing questionnaire is now closed.
+
+## What’s next
+
+The form is now closed, we are reviewing entries and will notify everyone before the end of October.  If invited to attend, you will have the chance to purchase a ticket for $195, plus fees. Scholarship recipients will be notified at the same time.
 
 ## What is SRCCON:WORK?
 
