@@ -4,7 +4,7 @@ title: Volunteer
 subtitle: Come help us make SRCCON:WORK great!
 sub-section: interior
 background: scholarships
-byline:   Matthew Paulson
+byline: Matthew Paulson
 bylineurl: https://flic.kr/p/cZWiFy
 permalink: /volunteer/index.html
 ---

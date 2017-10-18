@@ -59,13 +59,36 @@ header.stickerdots {
   background-size: cover;
   background-position: 0 -190px;
 }
+header.scholarships {
+  background-image: url(/media/img/backgrounds/scholarships.jpg);
+  background-size: cover;
+  background-position: top;
+}
+header.sessions {
+  background-image: url(/media/img/backgrounds/sessions.jpg);
+  background-position: 0 -370px;
+  background-size: cover;
+}
+header.talks {
+  background-image: url(/media/img/backgrounds/talks.jpg);
+  background-position: 0 -270px;
+  background-size: cover;
+}
+header.tickets {
+  background-image: url(/media/img/backgrounds/tickets.jpg);
+  background-size: cover;
+}
 
 header.coffee h3, header.coffee h2,
 header.lifevests h3, header.lifevests h2,
 header.oldcity h3, header.oldcity h2,
 header.chemical h3, header.chemical h2,
 header.philly h3, header.philly h2,
-header.stickerdots h3, header.stickerdots h2 {
+header.stickerdots h3, header.stickerdots h2,
+header.scholarships h3, header.scholarships h2,
+header.sessions h3, header.sessions h2,
+header.talks h3, header.talks h2,
+header.tickets h3, header.tickets h2 {
   text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
 }
 
@@ -122,13 +145,13 @@ header .byline {
   position: absolute;
   max-width: 900px;
   left: 6px;
-  top: 470px;
+  top: 290px;
   margin-bottom: 0px;
   opacity: .8;
 }
 
-body.interior .byline {
-  top: 290px;
+body.homepage .byline {
+    top: 340px;
 }
 
 body.interior #headbox h2, body.interior #headbox h3 {
@@ -172,7 +195,8 @@ header nav ul li a:hover {
     border-bottom-color: white;
 }
 
-.homepage header nav ul li a {
+.homepage header nav ul li a,
+.talks header nav ul li a {
     color: #111;
     border-bottom-color: #888;
 }
@@ -919,7 +943,7 @@ footer .columns {
   border: none;
 }
 
-.homepage .btn,
+.btn.full-width,
 .live .btn {
   float: none;
   margin-left: auto;
@@ -1005,8 +1029,7 @@ form.fr_form div.size_large {
 }
 
 form.fr_form div.size_medium {
-  margin-top: 40px;
-  color: #52c6c6;
+  margin-top: 20px;
 }
 
 form.fr_form label, form.fr_form div.size_small {
@@ -1021,19 +1044,15 @@ form.fr_form div.fr_description {
   color: grey;
 }
 
-form.fr_form label[for=c29] {
-  margin-top: 40px;
-}
-
 form.fr_form .fr_response_field_paragraph textarea.size_medium, form.fr_form .fr_response_field_text input.size_medium, form.fr_form .fr_response_field_text input, form.fr_form .fr_response_field_paragraph textarea, form.fr_form input#c35 {
   width: 100%;
 }
 
-form.fr_form .fr_response_field_text input#c12, form.fr_form .fr_response_field_text input#c18 {
-  width: 160px;
+form.fr_form div.fr_response_field_block_of_text {
 }
 
-form.fr_form div.fr_response_field_block_of_text {
+form.fr_form h3, form.fr_form h4 {
+    margin-top: 2.5em;
 }
 
 
@@ -1125,8 +1144,8 @@ td {
       height: 350px;
     }
 
-    body.interior .byline {
-      top: 250px;
+    header .byline {
+      top: 180px;
     }
 
     header, footer {
@@ -1172,6 +1191,9 @@ td {
     footer #sponsorbox .four div#sponsors ul li.accessibility img {
       height: 80px;
     }
+    header.talks {
+      background-position: 0 -220px;
+    }
 }
 
 @media screen and (max-width: 960px) {
@@ -1181,6 +1203,15 @@ td {
     }
     footer #sponsorbox .three div#sponsors ul li.lead img {
         width: 375px;
+    }
+    header.stickerdots,
+    header.sessions,
+    header.philly,
+    header.tickets {
+      background-position: 0 0;
+    }
+    header.talks {
+      background-position: 0 -150px;
     }
 }
 
@@ -1226,10 +1257,10 @@ td {
         right: auto;
     }
     header.homepage {
-      background-position: 0 50px;
+      background-position: 0 0;
     }
     header.scholarships {
-      background-position: 0 0px;
+      background-position: 0 0;
     }
     .homepage #headbox {
       padding-top: 0px;
@@ -1249,6 +1280,10 @@ td {
       padding-top: 20px;
     }
 
+    .homepage header nav ul li a {
+        color: white;
+    }
+    
     #headbox h4.homepage {
       margin-top: 10px;
     }
@@ -1259,10 +1294,6 @@ td {
         background-size: cover;
         height: 400px;
     }
-    .homepage #headertop {
-        height: 40px;
-        background-color: white;
-    }
     header nav {
         font-size: 1em;
     }
@@ -1270,12 +1301,8 @@ td {
         margin-top: .4em;
     }
 
-    body.interior .byline {
-      top: 200px;
-    }
-
-    header .byline {
-      top: 260px;
+    body.homepage .byline {
+      top: 250px;
     }
 
     ul.homepage li.left img {
@@ -1406,6 +1433,9 @@ td {
     #headbox h3.homepage, #headbox h4.homepage {
         margin-left: 220px;
     }
+    header.talks {
+      background-position: 0 -100px;
+    }
 }
 
 @media screen and (max-width: 680px) {
@@ -1499,7 +1529,7 @@ td {
     #headbox h3.homepage {
         font-size: 1.6em;
     }
-    #headbox h4.homepage, body.interior #headbox h3 {
+    #headbox h4.homepage, body.interior #headbox h3, body.talks #headbox h3 {
         font-size: 1.3em;
         display: none;
     }
@@ -1530,21 +1560,14 @@ td {
         font-size: 1.2em;
     }
     #headertop {
-      background-color: white;
       height: 0;
     }
     nav.navigation ul {
       margin-top: 5px;
       margin-bottom: 5px;
     }
-    nav.navigation li a {
-      color: black;
-    }
     header nav {
       float: none;
-    }
-    header.homepage {
-      background-position: 0 60px;
     }
     header.scholarships {
       background-position: 0 30px;
@@ -1565,6 +1588,9 @@ td {
         width: 300px;
         top: 0;
         left: auto;
+    }
+    header.talks {
+      background-position: 0 -60px;
     }
 }
 @media screen and (max-width: 480px) {
@@ -1653,6 +1679,9 @@ td {
     }
     #sponsortag img.nyt {
       width: 67%;
+    }
+    header.talks {
+      background-position: 0 -30px;
     }
 }
 @media screen and (max-width: 360px) {

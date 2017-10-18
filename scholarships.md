@@ -4,16 +4,13 @@ title: Scholarships
 subtitle: We offer a limited number of travel scholarships to help you make it to SRCCON:WORK.
 sub-section: interior
 background: scholarships
-byline:   Erik Westra
+byline: Erik Westra
 permalink: /scholarships/index.html
 ---
 
 To help defray the cost of attending our conferences, OpenNews offers a limited number of travel scholarships for attendees from communities that are often underrepresented in journalism and tech.
 
 This year, we’re partnering with the News Integrity Initiative to provide Diversity Scholarships for journalists of color to attend SRCCON:WORK. We will also have a small number of scholarships available to facilitators and white journalists from local and regional news organizations.
-
-## What we’re offering
-A ticket to SRCCON:WORK and $500 for you to use toward the cost of travel to the event. (For scholarship recipients who live in the Philadelphia area, we offer a SRCCON:WORK ticket without the additional travel funding.)
 
 ## What we&rsquo;re offering
 A ticket to SRCCON:WORK and $500 for you to use toward the cost of travel to the event. (For scholarship recipients who live in the Philadelphia area, we offer a SRCCON:WORK ticket without the additional travel funding.)
@@ -24,7 +21,7 @@ A ticket to SRCCON:WORK and $500 for you to use toward the cost of travel to the
 * White journalists who work with technology from local and regional news organizations
 
 ## How to apply
-Select the "Would you like to be considered for a SRCCON:WORK scholarship?" option on the form to tell us why you'd like to attend SRCCON:WORK. A few scholarship-specific questions will then pop onto the form. [The form will be open through October 18](/attendence_form).
+Select the "Would you like to be considered for a SRCCON:WORK scholarship?" option [on the form](/tickets/attendance_form) to tell us why you'd like to attend SRCCON:WORK. A few scholarship-specific questions will then pop onto the form. [The form is open through October 18](/tickets/attendence_form).
 
 ## When notifications go out
 Notifications for scholarships will go out alongside invitations to attend.
