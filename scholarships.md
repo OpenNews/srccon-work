@@ -8,11 +8,9 @@ byline: Erik Westra
 permalink: /scholarships/index.html
 ---
 
-If you want to attend SRCCON:WORK, we don&rsquo;t want cost to prevent you from coming, which is why we work to keep ticket prices low. To help defray the cost of attending SRCCON:WORK, OpenNews offers a limited number of travel scholarships.
+To help defray the cost of attending our conferences, OpenNews offers a limited number of travel scholarships for attendees from communities that are often underrepresented in journalism and tech.
 
-This year, we're partnering with the News Integrity Initiative to provide Diversity Scholarships for journalists of color to attend SRCCON:WORK. We will also have a small number of scholarships available to facilitators and white journalists from local and regional news organizations.
-
-The scholarship application is [now open as part of the form](/tickets/attendance_form) to tell us why you'd like to attend SRCCON:WORK.
+This year, we’re partnering with the News Integrity Initiative to provide Diversity Scholarships for journalists of color to attend SRCCON:WORK. We will also have a small number of scholarships available to facilitators and white journalists from local and regional news organizations.
 
 ## What we&rsquo;re offering
 A ticket to SRCCON:WORK and $500 for you to use toward the cost of travel to the event. (For scholarship recipients who live in the Philadelphia area, we offer a SRCCON:WORK ticket without the additional travel funding.)

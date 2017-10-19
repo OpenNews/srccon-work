@@ -22,16 +22,6 @@ SRCCON:WORK will take place at the [Chemical Heritage Foundation](http://www.che
 
 We're still finalizing details, but your travel plans can anticipate the SRCCON:WORK program beginning around 9am on Thursday, Dec. 7, and closing around 6pm on Friday, Dec. 8.
 
-## Attending SRCCON:WORK
-
-At about 100 people, we're keeping the size of SRCCON:WORK small so that participants can really get to know each other and collaborate on ideas to take back to their newsrooms. This more intimate format means that we have to be even more intentional about equitably distributing tickets. 
-
-Given what we've learned from our iterative approach to tickets for SRCCON and the need to be thoughtful in selecting cohorts with compatible experiences that are representative of the diversity of this community, [we are not doing a lottery for SRCCON:WORK](https://opennews.org/blog/srccon-work-tickets/). 
-
-The [form is now open](/tickets/attendance_form) to tell us why you'd like to attend SRCCON:WORK. We'll send out invitations to attend by the end of October. Tickets will cost $195, plus fees.
-
-You can learn more about our approach to tickets this year [on our tickets page](/tickets#the-srccon-work-tickets-process).
-
 ## Hotel
 
 We have a discounted block of rooms at the Wyndham Philadelphia Historic District Hotel a few blocks from the conference venue. The nightly rate will be $179 plus taxes. 
@@ -43,10 +33,6 @@ You can use [this link](https://www.wyndhamhotels.com/groups/hr/srccon-work) to 
 We want SRCCON:WORK to be as accessible as possible, including to parents! Given the smaller size of this event, we're exploring options for what kind of childcare support we may be able to provide. 
 
 Please [let us know](mailto:erika@opennews.org) if childcare would help you participate in SRCCON:WORK. We'll have more details in a few weeks.
-
-## Scholarships
-
-We will provide need-based scholarships for SRCCON:WORK. Scholarships cover the cost of the ticket and $500 for travel-related expenses. [Find out more about our scholarships](/scholarships).
 
 ## Transcription
 
