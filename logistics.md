@@ -28,6 +28,10 @@ We have a discounted block of rooms at the Wyndham Philadelphia Historic Distric
 
 You can use [this link](https://www.wyndhamhotels.com/groups/hr/srccon-work) to book a room at the discounted rate or call the hotel directly and tell them you're with SRCCON:WORK.
 
+## Room Share
+
+Have a room and looking for a roommate? Don’t have a room and looking for someone who does? Add your info to [the room share list](https://etherpad.opennews.org/p/srcconworkRoomShare2017).
+
 ## Childcare
 
 We want SRCCON:WORK to be as accessible as possible, including to parents! Given the smaller size of this event, we're exploring options for what kind of childcare support we may be able to provide. 
