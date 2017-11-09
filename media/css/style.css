@@ -64,6 +64,11 @@ header.scholarships {
   background-size: cover;
   background-position: top;
 }
+header.childcare {
+  background-image: url(/media/img/backgrounds/childcare.jpg);
+  background-size: cover;
+  background-position: top;
+}
 header.sessions {
   background-image: url(/media/img/backgrounds/sessions.jpg);
   background-position: 0 -370px;

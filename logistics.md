@@ -20,7 +20,7 @@ SRCCON:WORK will take place at the [Chemical Heritage Foundation](http://www.che
 
 **Dates:** December 7 & 8
 
-We're still finalizing details, but your travel plans can anticipate the SRCCON:WORK program beginning around 9am on Thursday, Dec. 7, and closing around 6pm on Friday, Dec. 8.
+We'll release the full schedule soon, but we can give you a glimpse now. Registration for SRCCON:WORK will open at 8:30am on Thursday, December 7 along with a welcome breakfast. The event will officially begin at 9:30am. The conference day will wrap around 6pm on Thursday, with group dinner plans (details soon!). We'll start up again with breakfast at 9am on Friday, December 8 and close SRCCON:WORK around 6pm. 
 
 ## Hotel
 
@@ -34,9 +34,7 @@ Have a room and looking for a roommate? Don’t have a room and looking for some
 
 ## Childcare
 
-We want SRCCON:WORK to be as accessible as possible, including to parents! Given the smaller size of this event, we're exploring options for what kind of childcare support we may be able to provide. 
-
-Please [let us know](mailto:erika@opennews.org) if childcare would help you participate in SRCCON:WORK. We'll have more details in a few weeks.
+We offer free, on-site childcare throughout the full SRCCON:WORK schedule (including Thursday dinner) at the nearby Wyndham Hotel. The caregivers act as employees of KiddieCorp (not contractors) and are recruited from local licensed daycare centers, elementary schools, preschools, and collegiate departments of early childhood education. [Learn more about our free childcare now](/childcare).
 
 ## Transcription
 
