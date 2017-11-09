@@ -11,9 +11,10 @@ permalink: /tickets/index.html
 
 
 The SRCCON:WORK ticketing questionnaire is now closed. Invitations to SRCCON:WORK will go out at the end of October, scholarship recipients will recieve their notifications at the same time.
-d by the end of October.
 
 ## The SRCCON:WORK tickets process
+
+At about 100 people, we’re keeping the size of SRCCON:WORK small so that participants can really get to know each other and collaborate on ideas. This more intimate format means that we have to be even more intentional about equitably distributing tickets. We’re focusing on participants who are seeking to make a change in their career or their workplace.
 
 By focusing on practitioners whose work is most affected by the themes we’re tackling, we hope that SRCCON:WORK can be an incubator for long-term projects and ideas that people can take back to nurture more inclusive, responsive spaces in their newsrooms.
 

@@ -20,7 +20,7 @@ SRCCON:WORK will take place at the [Chemical Heritage Foundation](http://www.che
 
 **Dates:** December 7 & 8
 
-We're still finalizing details, but your travel plans can anticipate the SRCCON:WORK program beginning around 9am on Thursday, Dec. 7, and closing around 6pm on Friday, Dec. 8.
+We'll release the full schedule soon, but we can give you a glimpse now. Registration for SRCCON:WORK will open at 8:30am on Thursday, December 7 along with a welcome breakfast. The event will officially begin at 9:30am. The conference day will wrap around 6pm on Thursday, with group dinner plans (details soon!). We'll start up again with breakfast at 9am on Friday, December 8 and close SRCCON:WORK around 6pm. 
 
 ## Hotel
 
@@ -28,15 +28,36 @@ We have a discounted block of rooms at the Wyndham Philadelphia Historic Distric
 
 You can use [this link](https://www.wyndhamhotels.com/groups/hr/srccon-work) to book a room at the discounted rate or call the hotel directly and tell them you're with SRCCON:WORK.
 
+Other hotels within 15–20 minutes by walking or easily accesible on transit:
+
+**[Sheraton Society Hill](http://www.sheratonphiladelphiasocietyhill.com/)**  
+.3 miles away  
+One Dock Street  
+Philadelphia, PA 19106  
+888-627-7078  
+King Room: prepaid—$215/night, flexible—$255/night
+
+**[Four Points by Sheraton City Center](http://www.fourpointsphiladelphiacitycenter.com/)**  
+1.1 miles  
+1201 Race Street  
+Philadelphia, PA, 19107  
+866-716-8133  
+King Room: flexible: $249/night
+
+**[Club Quarters Midtown](https://clubquartershotels.com/locations/club-quarters-hotel-philadelphia)**  
+1.1 miles  
+1628 Chestnut Street  
+Philadelphia, PA 19103  
+215-282-5000  
+Queen Room: prepaid: $206/night, flexible: $229/night
+
 ## Room Share
 
 Have a room and looking for a roommate? Don’t have a room and looking for someone who does? Add your info to [the room share list](https://etherpad.opennews.org/p/srcconworkRoomShare2017).
 
 ## Childcare
 
-We want SRCCON:WORK to be as accessible as possible, including to parents! Given the smaller size of this event, we're exploring options for what kind of childcare support we may be able to provide. 
-
-Please [let us know](mailto:erika@opennews.org) if childcare would help you participate in SRCCON:WORK. We'll have more details in a few weeks.
+We offer free, on-site childcare throughout the full SRCCON:WORK schedule (including Thursday dinner) at the nearby Wyndham Hotel. The caregivers act as employees of KiddieCorp (not contractors) and are recruited from local licensed daycare centers, elementary schools, preschools, and collegiate departments of early childhood education. [Learn more about our free childcare now](/childcare).
 
 ## Transcription
 
