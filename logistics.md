@@ -30,26 +30,26 @@ You can use [this link](https://www.wyndhamhotels.com/groups/hr/srccon-work) to 
 
 Other hotels within 15–20 minutes by walking or easily accesible on transit:
 
-**[Sheraton Society Hill](http://www.sheratonphiladelphiasocietyhill.com/)**
-<br/>.3 miles away
-<br/>One Dock Street
-<br/>Philadelphia, PA 19106
-<br/>888-627-7078
-<br/>King Room: prepaid—$215/night, flexible—$255/night
+**[Sheraton Society Hill](http://www.sheratonphiladelphiasocietyhill.com/)**  
+.3 miles away  
+One Dock Street  
+Philadelphia, PA 19106  
+888-627-7078  
+King Room: prepaid—$215/night, flexible—$255/night
 
-**[Four Points by Sheraton City Center](http://www.fourpointsphiladelphiacitycenter.com/)**
-<br/>1.1 miles
-<br/>1201 Race Street
-<br/>Philadelphia, PA, 19107
-<br/>866-716-8133
-<br/>King Room: flexible: $249/night
+**[Four Points by Sheraton City Center](http://www.fourpointsphiladelphiacitycenter.com/)**  
+1.1 miles  
+1201 Race Street  
+Philadelphia, PA, 19107  
+866-716-8133  
+King Room: flexible: $249/night
 
-**[Club Quarters Midtown](https://clubquartershotels.com/locations/club-quarters-hotel-philadelphia)**
-<br/>1.1 miles
-<br/>1628 Chestnut Street
-<br/>Philadelphia, PA 19103
-<br/>215-282-5000
-<br/>Queen Room: prepaid: $206/night, flexible: $229/night
+**[Club Quarters Midtown](https://clubquartershotels.com/locations/club-quarters-hotel-philadelphia)**  
+1.1 miles  
+1628 Chestnut Street  
+Philadelphia, PA 19103  
+215-282-5000  
+Queen Room: prepaid: $206/night, flexible: $229/night
 
 ## Room Share
 
