@@ -8,15 +8,13 @@ permalink: /index.html
 
 <h2 class="leader">If we’re going to transform newsroom code and culture, we need to invest in the people who do the work.</h2>
 
-Thank you everyone for your interest in SRCCON:WORK!
+## When & Where
 
-## What’s next
-
-The SRCCON:WORK ticketing form is now closed, we are reviewing entries and will notify everyone before the end of October. If invited to attend, you will have the chance to purchase a ticket for $195, plus fees. Scholarship recipients will be notified at the same time.
+SRCCON:WORK takes place Dec. 7-8 at the [Chemical Heritage Foundation](http://www.chemheritage.org/) in Philadelphia.
 
 ## What is SRCCON:WORK?
 
-SRCCON:WORK takes place Dec. 7-8 in Philadelphia, exploring how we as a community can make journalism more inclusive, representative, and responsive. This new, two-day event builds on conversations emerging from [SRCCON](https://srccon.org), our hands-on conference that gathers members of the news-code community each summer to take on the cultural and technical ideas that push newsrooms forward. Many of the biggest problems we face aren’t technical at all, so our program will focus on three big themes:
+SRCCON:WORK explores how we as a community can make journalism more inclusive, representative, and responsive. This new, two-day event builds on conversations emerging from [SRCCON](https://srccon.org), our hands-on conference that gathers members of the news-code community each summer to take on the cultural and technical ideas that push newsrooms forward. Many of the biggest problems we face aren’t technical at all, so our program will focus on three big themes:
     
 - **Collaboration & teamwork**: developing strategies to manage and mentor each other, and build happy, functional teams that communicate and coordinate across newsrooms.
 - **Hiring & career growth**: bringing in diverse, skilled voices and making newsrooms a place they want to stay.
