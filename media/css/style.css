@@ -78,6 +78,10 @@ header.tickets {
   background-image: url(/media/img/backgrounds/tickets.jpg);
   background-size: cover;
 }
+header.childcare {
+  background-image: url(/media/img/backgrounds/childcare.jpg);
+  background-size: cover;
+}
 
 header.coffee h3, header.coffee h2,
 header.lifevests h3, header.lifevests h2,
@@ -88,7 +92,8 @@ header.stickerdots h3, header.stickerdots h2,
 header.scholarships h3, header.scholarships h2,
 header.sessions h3, header.sessions h2,
 header.talks h3, header.talks h2,
-header.tickets h3, header.tickets h2 {
+header.tickets h3, header.tickets h2,
+header.childcare h3, header.childcare h2 {
   text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
 }
 
@@ -154,7 +159,8 @@ body.homepage .byline {
     top: 340px;
 }
 
-body.interior #headbox h2, body.interior #headbox h3 {
+body.interior #headbox h2, body.interior #headbox h3,
+body.talks #headbox h2, body.talks #headbox h3 {
   text-align: center;
 }
 

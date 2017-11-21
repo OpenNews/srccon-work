@@ -1,6 +1,6 @@
 ---
 layout: layout
-title: The SRCCON:WORK program
+title: About SRCCON:WORK
 subtitle: Through talks, conversations, and collaborative sessions, we'll take on ideas that can transform our newsrooms.
 section: sessions
 sub-section: interior
@@ -10,13 +10,13 @@ bylineurl: https://www.flickr.com/photos/pmillera4/8267602001/
 permalink: /program/index.html
 ---
 
-SRCCON:WORK will focus on themes around careers, teamwork, and care. During the conference, we’ll explore how these themes intersect in our work to make journalism more inclusive of and responsive to the communities we cover.
+SRCCON:WORK will explore how we as a community can make journalism more inclusive, representative, and responsive. This new, two-day event builds on conversations emerging from SRCCON, our hands-on conference that gathers members of the news-code community each year to take on ideas that push newsrooms forward.
 
 ## Schedule Overview
 
-Each part of the schedule will begin with a pair ot 10-minute talks before breaking into collaborative sessions digging into their themes.
+Each part of [the schedule](/schedule) will begin with a pair ot 10-minute talks before breaking into collaborative sessions digging into their themes.
 
-* **Thursday AM: Hiring & Career Growth.** Our communities deserve coverage that brings in diverse, skilled voices and makes newsrooms a place they want to stay.
+* **Thursday AM: Hiring & Career Growth.** Our communities deserve coverage that brings in representative voices and makes newsrooms a place they want to stay.
 * **Thursday PM: Mental Health & Self-care.** Let's talk about staying healthy—as individuals and as a community—so that even when the work gets hard, we don’t lose sight of the meaning we find in it.
 * **Friday AM: Collaboration & Teamwork.** We'll share strategies to manage and mentor each other, and build happy, functional teams that communicate and coordinate across organizations.
 * **Friday PM: What Comes Next.** Let's get ready to go home and change newsroom culture. This is where the work starts, not ends.

@@ -12,7 +12,7 @@ SRCCON:WORK is coming up at the Chemical Heritage Foundation in Philadelphia on 
 
 **[The schedule is now live!](/schedule)**
 
-If you're preparing to attend, we have a bunch of details on the [logistics page](/logistics). You can also hear from our speakers, who [chatted with Source](https://source.opennews.org/articles/tags/srcconwork/) about their work and what they'll be sharing with us.
+If you're preparing to attend, we have a bunch of details on the [logistics page](/logistics). You can also hear from our speakers, who [chatted with Source](https://source.opennews.org/articles/tags/srcconwork-q-a_1/) about their work and what they'll be sharing with us.
 
 ## What is SRCCON:WORK?
 
@@ -29,7 +29,7 @@ Here’s more about [how we're organizing the program at SRCCON:WORK](/program) 
 
 ## When, where, and other logistics
 
-You can find more info on lodging, schedule, live transcriptions, and other info on our [logistics page](/logistics).
+You can find more information on lodging, schedule, and getting around Philadelphia on our [logistics page](/logistics).
 
 ## Sponsorships
 
