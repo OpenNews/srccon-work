@@ -25,7 +25,7 @@ Many of the biggest problems we face aren’t technical at all, so the program a
 * **Friday AM: Collaboration & Teamwork**
 * **Friday PM: What Comes Next**
 
-Here’s more about [how we're organizing the program at SRCCON:WORK](/program) and the [talks](/talks) and [sessions](/sessions) we have in store.
+Here’s more about [how we're organizing the program at SRCCON:WORK](/program) and the [talks and sessions](/schedule) we have in store.
 
 ## When, where, and other logistics
 
