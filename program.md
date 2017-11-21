@@ -31,8 +31,8 @@ We want SRCCON:WORK to feel less like a small conference and more like a big coh
 
 ## About Our Talks
 
-Talks introduce each theme on the schedule, rooting our program in community experience and values, and sending us into collaborative sessions ready to dig in. We've asked speakers to challenge how we think, because solutions to systemic problems aren't going to come from the ways we've approached journalism in the past. [See the list of speakers and talks coming to SRCCON:WORK](/talks).
+Talks introduce each theme on the schedule, rooting our program in community experience and values, and sending us into collaborative sessions ready to dig in. We've asked speakers to challenge how we think, because solutions to systemic problems aren't going to come from the ways we've approached journalism in the past. [See the speakers and talks on the SRCCON:WORK schedule](/schedule).
 
 ## About Our Sessions
 
-Sessions at SRCCON events are highly collaborative: an opportunity to compare notes, share skills, and take advantage of every attendee’s expertise. We learn best when we learn from each other, and we want you to share ideas and start projects that live on beyond this event. [See the list of sessions at SRCCON:WORK](/sessions).
+Sessions at SRCCON events are highly collaborative: an opportunity to compare notes, share skills, and take advantage of every attendee’s expertise. We learn best when we learn from each other, and we want you to share ideas and start projects that live on beyond this event. [See the sessions on the SRCCON:WORK schedule](/schedule).
