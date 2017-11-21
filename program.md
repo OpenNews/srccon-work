@@ -14,7 +14,7 @@ SRCCON:WORK will explore how we as a community can make journalism more inclusiv
 
 ## Schedule Overview
 
-Each part of [the schedule](/schedule) will begin with a pair ot 10-minute talks before breaking into collaborative sessions digging into their themes.
+Each part of [the schedule](/schedule) will begin with a pair of 10-minute talks before breaking into collaborative sessions digging into their themes.
 
 * **Thursday AM: Hiring & Career Growth.** Our communities deserve coverage that brings in representative voices and makes newsrooms a place they want to stay.
 * **Thursday PM: Mental Health & Self-care.** Let's talk about staying healthy—as individuals and as a community—so that even when the work gets hard, we don’t lose sight of the meaning we find in it.

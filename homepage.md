@@ -33,7 +33,7 @@ You can find more information on lodging, schedule, and getting around Philadelp
 
 ## Sponsorships
 
-Is your company or organization able to help make SRCCON happen? We offer a full rundown of available packages on [our sponsor page](/sponsors), and each level of sponsorship has tickets available, either as a part of the sponsorship package or held for reserved purchase.
+Is your company or organization able to help make SRCCON happen? We offer a full rundown of available packages on [our sponsorship page](/sponsors/details), and each level of sponsorship has tickets available, either as a part of the sponsorship package or held for reserved purchase.
 
 ## What's next?
 
