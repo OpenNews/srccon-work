@@ -83,6 +83,8 @@ The Old City neighborhood is accessible via bus and subway on public transit. Th
 
 From the airport, you can get to Old City by regional rail train. [Take the Airport Line to the Jefferson Station](https://goo.gl/maps/Q2D8TiDEW322), then walk a block to the 11st Street Station and take the blue line to 5th Street Independence Hall (or just walk about 8 blocks to the hotel or conference venue). A one-way fare on the Airport Line is $6.75.
 
+For those coming from the train, the blue line station is just south of the station across Market Street.
+
 Numerous bus lines also run on Market Street, which is one block north of the venue. In addition to public transit, the Old City area is exceptionally walkable and cabs are plentiful.
 
 <span id="aa"></span>
