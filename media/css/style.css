@@ -64,11 +64,6 @@ header.scholarships {
   background-size: cover;
   background-position: top;
 }
-header.childcare {
-  background-image: url(/media/img/backgrounds/childcare.jpg);
-  background-size: cover;
-  background-position: top;
-}
 header.sessions {
   background-image: url(/media/img/backgrounds/sessions.jpg);
   background-position: 0 -370px;
@@ -83,6 +78,10 @@ header.tickets {
   background-image: url(/media/img/backgrounds/tickets.jpg);
   background-size: cover;
 }
+header.childcare {
+  background-image: url(/media/img/backgrounds/childcare.jpg);
+  background-size: cover;
+}
 
 header.coffee h3, header.coffee h2,
 header.lifevests h3, header.lifevests h2,
@@ -93,7 +92,8 @@ header.stickerdots h3, header.stickerdots h2,
 header.scholarships h3, header.scholarships h2,
 header.sessions h3, header.sessions h2,
 header.talks h3, header.talks h2,
-header.tickets h3, header.tickets h2 {
+header.tickets h3, header.tickets h2,
+header.childcare h3, header.childcare h2 {
   text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
 }
 
@@ -159,7 +159,8 @@ body.homepage .byline {
     top: 340px;
 }
 
-body.interior #headbox h2, body.interior #headbox h3 {
+body.interior #headbox h2, body.interior #headbox h3,
+body.talks #headbox h2, body.talks #headbox h3 {
   text-align: center;
 }
 
@@ -381,7 +382,7 @@ ul.homepage li:last-child {
   padding-bottom: 0px;
 }
 
-#contentbox, footer .container {
+#contentbox {
   max-width: 760px;
   margin-left: auto;
   margin-right: auto;
@@ -503,96 +504,61 @@ body.guide #contentbox h1 {
 /*end guide styles */
 /*sponsor page styles */
 
-#sponsorpage {
-  text-align: center;
+.sponsorpage #sponsorbox {
+    display: none;
 }
 
-#contentbox #sponsorpage li {
-  list-style: none;
+.sponsorpage #contentbox  {
+    text-align: center;
 }
 
-#contentbox #sponsorpage li p {
-  font-size: .9em;
-  text-align: left;
+.sponsorpage #contentbox li {
+    list-style: none;
+    margin: 1em 0 3em;
 }
 
-#contentbox #sponsorpage li a.imglink {
-  border-bottom: 0px;
+.sponsorpage #contentbox li p {
+    font-size: .9em;
+    text-align: left;
 }
 
-li.accessiblitysponsor {
-  padding-top: 35px;
+a.imglink, a.imglink:hover {
+    border-bottom: 0px;
 }
 
-li.accessiblitysponsor img {
-  width: 325px;
+.sponsorpage #contentbox li img {
+    max-width: 100%;
+    max-height: 120px;
+}
+.sponsorpage #contentbox li h3 {
+    margin-top: .5em;
 }
 
-li.accessiblitysponsor img.jsk {
-  width: 225px;
+.sponsorpage #contentbox ul {
+    overflow: hidden;
+    margin-bottom: 80px;
 }
 
-li.accessiblitysponsor img.nyt {
-  width: 400px;
+.sponsorpage #contentbox .meal-sponsors li img {
+  max-width: 67%;
 }
 
-li.wordpress img {
-  width: 280px;
+.sponsorpage #contentbox .event-sponsors li,
+.sponsorpage #contentbox .local-sponsors li,
+.sponsorpage #contentbox .supporting-sponsors li,
+.sponsorpage #contentbox .partners li {
+    float: left;
+    display: inline-block;
+    width: 44%;
+    margin-left: 3%;
+    margin-right: 3%;
+    vertical-align: middle;
 }
 
-ul.eventsponsor li {
-  display: inline-block;
-  padding: 0 50px;
-}
-
-ul.eventsponsor li img {
-  width: 185px;
-}
-
-ul.localsponsor li img {
-  width: 170px;
-}
-
-ul.eventsponsor li.fusion img {
-  width: 150px;
-}
-
-ul.eventsponsor li.djnf img {
-  width: 250px;
-}
-ul.eventsponsor li.mprnews img {
-  margin-bottom: -2px;
-}
-
-ul.supportingsponsor li {
-  display: inline-block;
-  padding: 0 20px;
-  vertical-align: middle;
-}
-
-ul.supportingsponsor li img {
-  width: 150px;
-}
-
-ul.supportingsponsor li.jsk img {
-  width: 125px;
-}
-
-ul.supportingsponsor li.um img {
-  width: 230px;
-}
-
-ul.supportingsponsor li.alley img {
-  width: 160px;
-}
-
-ul.supportingsponsor li.knightfoundation img {
-  width: 215px;
-}
-
-#contentbox #sponsorpage h2 {
-  padding-top: 40px;
-  margin-bottom: 20px;
+.sponsorpage #contentbox .local-sponsors li,
+.sponsorpage #contentbox .supporting-sponsors li {
+    margin-left: 28%;
+    margin-right: 28%;
 }
 
 /*end sponsor page styles */
@@ -607,25 +573,11 @@ ul.supportingsponsor li.knightfoundation img {
   margin-top: -20px;
 }
 
-#sponsortag img.scholarship {
-  width: 40%;
-  position: relative;
-  left: -12px;
-  vertical-align: middle;
-}
-
 #sponsortag img.childcare {
-  width: 18%;
+  width: 25%;
   position: relative;
-  top: 35px;
+  top: 30px;
   left: 8px;
-}
-
-#sponsortag img.nyt {
-  width: 33%;
-  position: relative;
-  vertical-align: middle;
-  padding-left: .33em;
 }
 
 #sponsortag a {
@@ -686,13 +638,12 @@ footer {
 }
 
 footer #sponsorbox {
-  clear: both;
-  height: auto;
-  background: #BFBABA;
-  background-size: cover;
-  max-width: 1500px;
-  margin: 20px auto 50px;
-  right: auto;
+    clear: both;
+    height: auto;
+    border-top: 1px solid #e4dede;
+    max-width: 1500px;
+    margin: 20px auto 50px;
+    right: auto;
 }
 
 footer #sponsorbox .container {
@@ -700,32 +651,8 @@ footer #sponsorbox .container {
   padding-top: 10px;
   padding-bottom: 25px;
   height: auto;
+  overflow: hidden;
 }
-
-footer #sponsorbox:after {
-      content: '';
-      position: absolute;
-      width: 70px;
-      height: 35px;
-      z-index: 1;
-      border-radius: 0 0 35px 35px;
-      left: 48%;
-      margin-left: -25px;
-      background: #BFBABA;
-}
-
-footer #sponsorbox:before {
-      content: '';
-      position: absolute;
-      width: 70px;
-      height: 35px;
-      z-index: 1;
-      border-radius: 0 0 35px 35px;
-      left: 48%;
-      margin-left: -25px;
-      background: white;
-}
-
 
 footer #sponsorbox ul {
   padding-left: 0px;
@@ -739,96 +666,24 @@ footer #sponsorbox ul li {
   text-align: center
 }
 
-footer p.sponsortag {
-  text-align: left;
-  font-size: 1em;
-}
-
-footer .three p.sponsortag, footer .four p.sponsortag {
-  padding-top: 0px;
-  padding-right: 1em;
-  text-align: right;
-  font-size: .9em;
-  margin-top: -40px;
-}
-
-footer span.sponsorcaption {
-  margin-left: -20px;
-}
-
-footer .four span.sponsorcaption {
-  margin-left: 0px;
-}
-
 span.sponsortype {
   display: block;
   text-align: center;
 }
 
-footer #sponsorbox p.sponsorblurb {
-  margin-top: 50px;
+footer #sponsorbox #sponsors,
+footer #sponsorbox #partners {
+    float: left;
+    width: 65%;
+    margin-right: 5%;
+    
+}
+footer #sponsorbox #partners {
+    width: 30%;
+    margin-right: 0;
 }
 
-footer #sponsorbox .two div#sponsors ul li.lead img {
-  height: 160px;
-  margin-right: 25px;
-}
-
-footer #sponsorbox .two div#sponsors ul li.accessibility img {
-  height: 130px;
-  margin-right: 25px;
-}
-
-
-footer #sponsorbox .two div#partners ul li img, footer #sponsorbox div#partners ul li img {
-  height: 50px;
-  margin-top: -15px;
-}
-
-footer #sponsorbox .container.three, footer #sponsorbox .container.four {
-  max-width: 900px;
-}
-
-footer #sponsorbox .three div#partners ul li img, footer #sponsorbox .four div#partners ul li img {
-  height: 40px;
-  margin-top: 8px;
-}
-
-footer #sponsorbox .three div#partners {
-  width: 300px;
-}
-
-footer #sponsorbox .three div#sponsors ul li.lead img, footer #sponsorbox .four div#sponsors ul li.lead img {
-  width: 450px;
-  margin-right: 15px;
-}
-
-footer #sponsorbox .three div#sponsors ul li.accessibility img {
-  max-height: 130px;
-  margin-right: 15px;
-}
-
-footer #sponsorbox .three div#sponsors ul li.accessibility img.slack {
-}
-
-footer #sponsorbox .four div#sponsors ul li.lead img {
-  width: 450px;
-  display: block;
-}
-
-footer #sponsorbox .four div#sponsors ul li.accessibility img {
-  height: 85px;
-}
-
-footer #sponsorbox .four div#sponsors {
-  width: 500px;
-}
-
-footer #sponsorbox div#partners {
-  float: right;
-}
-
-footer #sponsorbox div#partners ul li {
+footer #sponsorbox ul li {
   display: block;
   text-align: left;
 }
@@ -837,19 +692,39 @@ footer #sponsorbox ul li a:hover, footer #sponsorbox ul li a {
   border-bottom: none;
 }
 
-footer #sponsorbox div#sponsors li.lead {
-  margin-top: 0px;
+footer #sponsorbox #sponsors li {
+    width: 46%;
+    display: inline-block;
+    margin: 0 3% 1.5em 0;
+    text-align: center;
 }
-footer #sponsorbox div#sponsors li.accessibility {
-  width: 45%;
-  margin-right: 0;
-  margin-left: 0;
+
+footer #sponsorbox #sponsors li.lead-sponsor {
+    width: 100%;
+    margin-right: 0;
+}
+
+footer #sponsorbox #sponsors li img {
+    width: auto;
+    height: 75px;
+    display: block;
+    margin: 0 auto .5em;
+}
+
+footer #sponsorbox #sponsors li.lead-sponsor img {
+    height: 100px;
+}
+
+footer #sponsorbox #partners li img {
+    width: auto;
+    height: 40px;
+    margin: 0;
 }
 
 footer .col {
   width: 30%;
   float: left;
-  margin-right: 3%;
+  margin-right: 5%;
   margin-bottom: 50px;
 }
 
@@ -857,7 +732,7 @@ footer .last {
   margin-right: 0;
 }
 
-footer .col h2 {
+footer .col h2, #sponsorbox h2 {
   font-weight: 400;
   text-transform: uppercase;
   font-size: 1.2em;
@@ -1060,6 +935,10 @@ form.fr_form h3, form.fr_form h4 {
     margin-top: 2.5em;
 }
 
+.muted {
+    font-size: .75em;
+    opacity: .33;
+}
 
 /* SESSION PROPOSALS */
 .session-proposal-list {
@@ -1165,50 +1044,22 @@ td {
       right: auto;
     }
 
-    footer #sponsorbox .four div#sponsors {
-      width: 65%;
-      padding: 0 1em;
+    footer #sponsorbox #sponsors li img {
+        height: 60px;
     }
-    footer #sponsorbox .four div#partners {
-      width: 35%;
-      padding: 0 1em;
+    footer #sponsorbox #sponsors li.lead-sponsor img {
+        height: 75px;
     }
-
-    footer #sponsorbox .three div#sponsors ul li.lead img  {
-      margin-right: 10px;
-      max-width: 175px;
+    footer #sponsorbox #partners li img {
+        height: 30px;
     }
 
-    footer #sponsorbox .three div#sponsors ul li.accessibility img {
-      margin-right: 10px;
-      max-width: 165px;
-    }
-
-    footer #sponsorbox .three div#sponsors ul li.accessibility img.slack {
-      max-width: 165px;
-      margin-bottom:35px;
-    }
-
-
-    footer #sponsorbox .four div#sponsors ul li.lead img {
-    }
-
-    footer #sponsorbox .four div#sponsors ul li.accessibility img {
-      height: 80px;
-    }
     header.talks {
       background-position: 0 -220px;
     }
 }
 
 @media screen and (max-width: 960px) {
-    footer #sponsorbox .three {
-        max-width: none;
-        margin: 0 30px;
-    }
-    footer #sponsorbox .three div#sponsors ul li.lead img {
-        width: 375px;
-    }
     header.stickerdots,
     header.sessions,
     header.philly,
@@ -1252,10 +1103,6 @@ td {
     footer .container  {
         margin: 0 2em;
         right: auto;
-    }
-
-    footer #sponsorbox:after, footer #sponsorbox:before {
-          left: 45.5%;
     }
 
     #contentbox, #headbox {
@@ -1324,60 +1171,22 @@ td {
       margin-left: 25px;
     }
 
-    div.pink, div.blue {
-      width: auto;
-      background-size: cover;
-      margin-top: 50px;
-      margin-bottom: 50px;
-      margin-left: -2em;
-      margin-right: -2em;
+    .sponsorpage #contentbox ul {
+        margin-bottom: 40px;
     }
 
-    footer #sponsorbox .three div#sponsors ul li.lead img {
-      height: 50px;
-      width: auto;
+    footer #sponsorbox {
+        margin-bottom: 20px;
     }
-    footer #sponsorbox .four div#sponsors ul li.lead img {
-        width: 95%;
+    footer #sponsorbox #sponsors li img {
+        height: 50px;
     }
-    footer #sponsorbox .four div#partners ul li img {
-      height: auto;
-      width: 100%;
-      margin-top: 8px;
+    footer #sponsorbox #sponsors li.lead-sponsor img {
+        height: 60px;
     }
-
-    footer #sponsorbox .four div#sponsors ul li.accessibility img {
-      height: 100px;
+    footer #sponsorbox #partners li img {
+        height: 30px;
     }
-
-    footer #sponsorbox .three div#sponsors ul li.accessibility img {
-      height: 100px;
-      width: auto;
-      max-width: none;
-    }
-    footer .three p.sponsortag, footer .four p.sponsortag {
-        margin-top: 0;
-        width: 55%;
-        text-align: center;
-    }
-    footer #sponsorbox ul li {
-    }
-    footer #sponsorbox ul li span.sponsorcaption {
-        margin-left: 0;
-    }
-
-}
-
-@media screen and (max-width: 770px) {
-    footer #sponsorbox .three div#sponsors ul li.accessibility img {
-      height: 70px;
-    }
-    footer .three p.sponsortag, footer .four p.sponsortag {
-        width: auto;
-        text-align: left;
-        font-size: 1em;
-    }
-
 }
 
 @media screen and (max-width: 740px) {
@@ -1387,46 +1196,22 @@ td {
         font-size: 1.6em;
     }
 
-    footer #sponsorbox .three div#sponsors ul li.lead img {
+    footer #sponsorbox .three #sponsors ul li.lead img {
       height: 40px;
     }
-    footer #sponsorbox .three div#sponsors ul li.accessibility img {
+    footer #sponsorbox .three #sponsors ul li.accessibility img {
       height: 50px;
     }
-    footer #sponsorbox .three div#partners ul li img {
+    footer #sponsorbox .three #partners ul li img {
         height: 30px;
     }
-    #contentbox #sponsorpage li img {
-      width: 100%;
-    }
-    #contentbox #sponsorpage li img.jsk,
-    #contentbox #sponsorpage ul.localsponsor li img,
-    #contentbox #sponsorpage ul.supportingsponsor li img {
-      width: 50%;
-    }
-    #contentbox #sponsorpage ul.eventsponsor li {
-      margin: 0px 0px 2em 0px;
-      padding: 0px;
-      display: block;
-    }
-    #contentbox #sponsorpage ul.eventsponsor li img,
-    #contentbox #sponsorpage ul.supportingsponsor li.alley img,
-    #contentbox #sponsorpage ul.supportingsponsor li.um img,
-    #contentbox #sponsorpage ul.supportingsponsor li.knightfoundation img {
-        width: 67%;
-    }
-    footer #sponsorbox .four div#sponsors ul li {
-        width: auto;
-        display: block;
-        margin-bottom: 2.5em;
-        text-align: left;
-    }
-
 }
 
 @media screen and (max-width: 720px) {
     footer .col {
         width: 47%;
+        margin-right: 3%;
+        margin-bottom: 0;
     }
     header {
       background-position: 0 0px;
@@ -1443,41 +1228,6 @@ td {
     }
 }
 
-@media screen and (max-width: 680px) {
-    footer #sponsorbox .three div#partners {
-        float: none;
-        display: block;
-        width: auto;
-        margin-bottom: 30px;
-    }
-    footer #sponsorbox div#partners ul li {
-        margin-top: 0;
-        display: inline-block;
-    }
-    footer #sponsorbox .three div#sponsors ul li.lead {
-        display: block;
-        text-align: left;
-    }
-    footer #sponsorbox .three div#sponsors ul li.lead img {
-      height: 60px;
-    }
-    footer #sponsorbox .three div#sponsors ul li.accessibility {
-        text-align: left;
-    }
-    footer #sponsorbox .three div#sponsors ul li.accessibility img {
-      height: 90px;
-    }
-    footer #sponsorbox .three div#partners ul li img {
-        height: 40px;
-    }
-    footer #sponsorbox .three p.small {
-        margin-bottom: 0;
-    }
-    footer #sponsorbox ul {
-        margin-top: .33em;
-    }
-}
-
 @media screen and (max-width: 640px) {
     a#sitelogo img {
       width: 320px;
@@ -1489,24 +1239,35 @@ td {
       font-size: 1.3em;
       line-height: 1.5em;
     }
+    
+    .sponsorpage #contentbox ul {
+        margin-bottom: 30px;
+    }
+    .sponsorpage #contentbox h2 {
+        margin-top: 20px;
+    }
+    
     footer #sponsorbox img {
         max-width: 100%;
     }
 
-    footer #sponsorbox div#partners {
-      float: none;
-      margin-bottom: 2.5em;
+    footer #sponsorbox #sponsors,
+    footer #sponsorbox #partners {
+        display: block;
+        width: 100%;
+        float: none;
+        margin-bottom: 2.5em;
     }
 
-    footer #sponsorbox div#partners ul li {
+    footer #sponsorbox #partners ul li {
       text-align: center;
     }
-
-    footer .three p.sponsortag, footer .four p.sponsortag {
-      padding-top: 0px;
-      text-align: center;
-      font-size: .9em;
-      margin-top: 0px;
+    
+    footer #sponsorbox #partners li img {
+        height: 40px;
+    }
+    #sponsortag img.childcare {
+      top: 20px;
     }
 
     footer .col {
@@ -1581,17 +1342,9 @@ td {
     font-size: 1.3em;
     margin-top: 25px;
     }
-    #sponsortag {
-        max-width: 67%;
-    }
     #sponsortag img.childcare {
         width: 180px;
         top: 1em;
-        left: auto;
-    }
-    #sponsortag img.scholarship {
-        width: 300px;
-        top: 0;
         left: auto;
     }
     header.talks {
@@ -1613,12 +1366,15 @@ td {
     p, #contentbox li, ul.homepage li p, .homepage .buttontext p, .homepage p.bottomrun  {
       font-size: 1.2em;
     }
-    footer #sponsorbox ul li,
-    footer #sponsorbox div#partners ul li {
+    footer #sponsorbox #sponsors ul li,
+    footer #sponsorbox #partners ul li {
       display: block;
-      text-align: center;
+      text-align: left;
       padding-right: 0;
       width: auto;
+    }
+    footer #sponsorbox #sponsors li img {
+        margin: 0 0 .5em 0;
     }
 
     p.sponsorblurb {
@@ -1629,14 +1385,11 @@ td {
         margin-bottom: 5px;
     }
 
-    body.great_session div#headbox h2 {
-      font-size: 1.8em;
-      margin-top: 10px;
-    }
     #headbox h3 {
         font-size: 1.1em;
     }
-    #headertop, header.stickerdots #headertop, header.books #headertop {
+    #headertop, header.stickerdots #headertop,
+    header.books #headertop {
         height: 40px;
     }
     header nav {
@@ -1679,16 +1432,21 @@ td {
     .homepage #headbox {
       padding-left: 0px;
     }
-    footer #sponsorbox .three div#sponsors ul li.lead img {
-        height: auto;
-    }
-    #sponsortag img.nyt {
-      width: 67%;
-    }
     header.talks {
       background-position: 0 -30px;
     }
+    .sponsorpage #contentbox .event-sponsors li,
+    .sponsorpage #contentbox .local-sponsors li,
+    .sponsorpage #contentbox .supporting-sponsors li,
+    .sponsorpage #contentbox .partners li {
+        float: none;
+        display: block;
+        width: 80%;
+        margin: 1em 10%;
+        vertical-align: middle;
+    }
 }
+
 @media screen and (max-width: 360px) {
     a#sitelogo img {
       width: 90%;

@@ -1,87 +1,82 @@
 ---
 layout: layout
-title: Sponsor SRCCON:WORK
-subtitle: Sponsors will help make this event happen. Get in touch!
-section: sponsors
+title: Our Sponsors
+subtitle: Sponsors help make SRCCON happen. Thanks to ours!
+section: sponsorpage
 sub-section: interior
 background: coffee
 permalink: /sponsors/index.html
 ---
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/180221748' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
-<p class="caption"><em><a href="https://vimeo.com/180221748">SRCCON 2016 highlights video</a>, videography by <a href="http://www.searlevideo.com/">Searle Video</a>.</em></p>
+<ul>
+    <li>
+        <a href="https://newslab.withgoogle.com/" class="imglink">
+            <img src="/media/img/sponsors/2017/google_news_lab.png">
+        </a>
+        <h3>SRCCON:WORK Lead Sponsor</h3>
+        <p>At the News Lab, we strongly believe in the importance of quality journalism—original, fact-based reporting that spreads knowledge and has the power to improve people’s lives—and the journalists who produce it. We believe in Google's capacity to be a positive force in helping journalists strengthen digital storytelling and produce more in-depth reporting. And, we see ourselves as the voice for journalism inside Google—to ensure that the interests, needs, and concerns of journalists are surfaced and reflected in the products and services we offer as a company.</p>
+    </li>
 
-SRCCON:WORK is a brand new event for 2017, a small conference with a program that digs deeply into how we as a community take care of each other and take on the hard work of journalism. It builds on the collaborative, peer-driven conference SRCCON, where over four years we have brought hundreds of members of the news-code community together for hands-on sessions exploring the cultural and technical ideas that push journalism forward. Our events attract the best newsroom developers, designers, and data analysts for two days of thinking, working, and building together.
+    <li>
+        <a href="https://www.journalism.cuny.edu/centers/news-integrity-initiative/" class="imglink">
+            <img src="/media/img/sponsors/2017/nii.png">
+        </a>
+        <h3>SRCCON:WORK Diversity Scholarship Sponsor</h3>
+        <p>The News Integrity Initiative at the CUNY Graduate School of Journalism is a project to improve people’s lives by building trust in journalism, combating disinformation, and nurturing constructive, inclusive and respectful public conversations.</p>
+        <p>Through grants, applied research, events and workshops, we provide support for journalism that listens, responds to, and meaningfully reflects the needs and goals of the communities it serves. Our vision is for people to feel powerful — to feel visible, valued, and engaged in their communities — because they are armed with news and information that strengthens their sense of ownership and opportunities in the places where they live and work, empowers them to participate in community decision-making, and deepens their understanding of and empathy for people of all backgrounds and experiences.</p>
+        <p>For more information, visit <a href="http://www.newsintegrity.com">www.newsintegrity.com</a></p>
+    </li>
 
-Sponsors help us make SRCCON:WORK unique and accessible by keeping our ticket price well below cost, getting people to the event, and bringing in the special touches that make SRCCON… SRCCON.
+    <li>
+        <a href="http://www.democracyfund.org/" class="imglink">
+            <img src="/media/img/sponsors/2017/democracy_fund.png">
+        </a>
+        <h3>SRCCON:WORK Childcare Sponsor</h3>
+        <p><a href="http://www.democracyfund.org/">The Democracy Fund</a> is a bipartisan foundation established by eBay founder and philanthropist Pierre Omidyar to help ensure that our political system can withstand new challenges and deliver on its promise to the American people. Subscribe to <a href="https://tinyletter.com/localfix">the Local Fix</a>, a project of Democracy Fund’s Public Square program, for a weekly email roundup of the best writing on journalism, paired with concrete advice, tools, and resources for people who care about local news.</p>
+    </li>
+</ul>
 
-We offer several levels of sponsorship in order to accommodate a variety of sizes of companies and organizations. Below you'll see some of our recent offerings. These may evolve as we plan for this brand new event, but this will give you an idea of the type of sponsorships we offer. [Email us](mailto:dan@opennews.org) to talk about options as we plan for our first-ever SRCCON:WORK!
+<h2>Lunch Sponsor</h2>
+<ul class="meal-sponsors">
+    <li>
+        <a href="https://www.nytimes.com/" class="imglink">
+            <img src="/media/img/sponsors/2017/nyt.png">
+        </a>
+    </li>
+</ul>
 
-## Lead Sponsor
+<h2>Event Sponsors</h2>
+<ul class="event-sponsors">
+    <li>
+        <a href="https://www.mozilla.org/en-US/foundation/" class="imglink">
+            <img src="/media/img/sponsors/2017/mozilla_foundation.png">
+        </a>
+    </li>
+    <li>
+        <a href="https://www.microsoft.com/en-us/" class="imglink">
+            <img src="/media/img/sponsors/2017/microsoft.png">
+        </a>
+    </li>
+</ul>
 
-Lead Sponsorship may include:
+<h2>Supporting Sponsor</h2>
+<ul class="supporting-sponsors">
+    <li>
+        <a href="https://www.groupninemedia.com/" class="imglink">
+            <img src="/media/img/sponsors/2017/group_nine.png">
+        </a>
+    </li>
+</ul>
 
-- 4 free tickets to SRCCON:WORK.
-- Sponsor of official SRCCON:WORK Field Notes notebook.
-- Special mention on stage during general session.
-- Logo on SRCCON:WORK website (in partners section) visible on every page.
-- Logo and description of product/company on sponsorship page of SRCCON:WORK website (1 paragraph max).
-- Logo on sponsorship signage at event.
-
-## Accessibility Sponsors
-
-Our Accessibility Sponsors help make our events welcoming to as many as possible. We have four Accessibility Sponsor slots available:
-
-- Childcare
-- Facilitator Scholarships
-- Scholarships
-- Transcripts
-
-Accessibility Sponsors may receive:
-
-- 1 free ticket to SRCCON:WORK.
-- Special mention on stage during general session.
-- Logo on SRCCON:WORK website (in partners section) visible on every page.
-- Logo and description of product/company on sponsorship page of SRCCON:WORK website (1 paragraph max).
-- Logo on page(s) that correspond with your accessibility sponsorship.
-- Logo on sponsorship signage at event.
-
-## Meal or Snack Sponsors
-
-At our events, we want people thinking about the amazing sessions and community, not where their next meal is coming from, so we feed all our participants breakfast, lunch, dinner, and snacks. Help get people fed by becoming a Meal or Snack Sponsor. We have three sponsorships available:
-
-- Breakfast Sponsor 
-- Lunch Sponsor
-- Snack Sponsor
-
-Meal or Snack Sponsors may receive:
-
-- 1 free ticket to SRCCON:WORK.
-- Logo on signage at buffet tables when your meal is served.
-- Logo on sponsorship page of SRCCON:WORK website.
-- Logo on sponsorship signage at event.
-
-## Event Sponsors
-
-Becoming an event sponsor is a great way to support SRCCON:WORK. Event Sponsors may receive:
-
-- 1 free ticket to SRCCON:WORK.
-- Logo on sponsorship page of SRCCON:WORK website.
-- Logo on sponsorship signage at event.
-
-## Local Media Sponsors
-
-Local Media Sponsorship is open only to media companies from the Philadelphia area. Local Media Sponsors may receive:
-
-- 2 free tickets to SRCCON:WORK.
-- Logo on sponsorship page of SRCCON:WORK website.
-- Logo on sponsorship signage at event.
-
-## Supporting Sponsors
-
-Want to support SRCCON:WORK on a budget? Our Supporting Sponsorship level lets you help make it happen! Supporting Sponsors may receive:
-
-- 1 guaranteed ticket (purchased separately).
-- Logo on sponsorship page of SRCCON:WORK website.
-- Logo on sponsorship signage at event.
-
-If you would like to sponsor SRCCON:WORK with one of the above packages, or would like to talk about a custom sponsorship, please [send us a note](mailto:dan@opennews.org).
+<h2>OpenNews Project Partners</h2>
+<ul class="partners">
+    <li>
+        <a href="https://www.knightfoundation.org/" class="imglink">
+            <img alt="Knight Foundation" src="/media/img/sponsors/2017/knight_foundation.png">
+        </a>
+    </li>
+    <li>
+        <a href="http://www.communitypartners.org/" class="imglink">
+            <img alt="Community Partners" src="/media/img/sponsors/2017/community_partners.png">
+        </a>
+    </li>
+</ul>

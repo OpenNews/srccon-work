@@ -18,9 +18,9 @@ Two of our own staff members have had their young children happily in KiddieCorp
 
 ## Logistics
 
-Childcare will take place at the conference hotel, which is a few blocks away from the conference venue. You can [register now](https://www.jotform.com/KiddieCorp/srcconwinterkids) (please register by November 17) and in the meantime, and [learn more about KiddieCorp's staffing](https://www.kiddiecorp.com/staffselect.html) and [security procedures](https://www.kiddiecorp.com/security.html).
+Childcare will take place at the conference hotel, which is a few blocks away from the conference venue. You can [register now](https://www.jotform.com/KiddieCorp/srcconwinterkids), and in the meantime [learn more about KiddieCorp's staffing](https://www.kiddiecorp.com/staffselect.html) and [security procedures](https://www.kiddiecorp.com/security.html).
 
-<!--<div id="sponsortag">
-    <span>Childcare at SRCCON is made possible by</span> <a href="http://jsk.stanford.edu/"><img src="/media/img/partners/jsk.jpg" class="childcare" alt="John S Knight Fellowships"></a>
-</div>-->
+<div id="sponsortag">
+    <span>Childcare at SRCCON:WORK is made possible by</span> <a href="http://www.democracyfund.org/"><img src="/media/img/sponsors/2017/democracy_fund.png" class="childcare" alt="Democracy Fund"></a>
+</div>
 
