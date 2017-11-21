@@ -532,10 +532,6 @@ h3.slider-control {
        1px 1px 1px rgba(0, 0, 0, 0.1);
 }
 
-.session-length-short {
-    background-color: PapayaWhip;
-}
-
 .favorites .session-length-short,
 .all-sessions .session-length-short {
     float: none;
@@ -549,9 +545,13 @@ h3.slider-control {
     background-color: WhiteSmoke;
 }
 
-.session-length-long,
 .highlight {
     background-color: PowderBlue;
+}
+
+.session-length-long,
+.session-length-short {
+    background-color: PapayaWhip;
 }
 
 .session-ghost {
