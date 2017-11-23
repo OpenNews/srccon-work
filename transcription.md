@@ -34,10 +34,4 @@ Our captioner will provide live transcription of all our talks at SRCCON:WORK, a
 
 ## Write-Ups
 
-In the leadup to SRCCON 2017, we’re featuring a selection of sessions from last year’s conference [on Source](https://source.opennews.org/articles/tags/srccon-spotlight/). Those write-ups include transcripts and audio when we have them, and brand-new interviews with the session facilitators. You can keep up with the series at [SRCCON Spotlight](https://source.opennews.org/articles/tags/srccon-spotlight/).
-
-During and after this year's SRCCON, we'll also have a documentation team writing up session summaries, collecting resource lists, and more. We'll [publish everything on Source](https://source.opennews.org) in the weeks that follow the conference, and also collect write-ups and blog posts from attendees.
-
-<div id="sponsortag">
-    <span>Transcription at SRCCON is made possible by</span> <a href="http://www.facebook.com/"><img src="/media/img/partners/2017/facebook-logo.png" class="" alt="Facebook"></a>
-</div>
+In the leadup to SRCCON:WORK, we’re featuring [Q&As with our conference speakers](https://source.opennews.org/articles/tags/srcconwork-q-a/). During and after the event, we'll also have a documentation team writing about sessions, collecting resource lists, and more. We'll [publish everything on Source](https://source.opennews.org) in the weeks that follow the conference, and also collect write-ups and blog posts from attendees.
