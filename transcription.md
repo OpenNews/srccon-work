@@ -34,4 +34,4 @@ Our captioner will provide live transcription of all our talks at SRCCON:WORK, a
 
 ## Write-Ups
 
-In the leadup to SRCCON:WORK, we’re featuring [Q&As with our conference speakers](https://source.opennews.org/articles/tags/srcconwork-q-a/). During and after the event, we'll also have a documentation team writing about sessions, collecting resource lists, and more. We'll [publish everything on Source](https://source.opennews.org) in the weeks that follow the conference, and also collect write-ups and blog posts from attendees.
+In the leadup to SRCCON:WORK, we’re featuring [Q&As with our conference speakers](https://source.opennews.org/articles/tags/srcconwork-q-a/). After the event wraps, we'll be publishing session writeups, resource lists, and more [on Source](https://source.opennews.org)—[hop on the Source newsletter](https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc) if you'd like a digest of those links, plus highlights from the community, as they come out.
