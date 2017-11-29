@@ -78,6 +78,10 @@ header.tickets {
   background-image: url(/media/img/backgrounds/tickets.jpg);
   background-size: cover;
 }
+header.facilitators {
+  background-image: url(/media/img/backgrounds/facilitators.jpg);
+  background-size: cover;
+}
 header.childcare {
   background-image: url(/media/img/backgrounds/childcare.jpg);
   background-size: cover;
