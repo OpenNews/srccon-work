@@ -18,7 +18,7 @@ Two of our own staff members have had their young children happily in KiddieCorp
 
 ## Logistics
 
-Childcare will take place at the conference hotel, which is a few blocks away from the conference venue. You can [register now](https://www.jotform.com/KiddieCorp/srcconwinterkids), and in the meantime [learn more about KiddieCorp's staffing](https://www.kiddiecorp.com/staffselect.html) and [security procedures](https://www.kiddiecorp.com/security.html).
+Childcare will take place at [the conference hotel](https://www.wyndhamhotels.com/wyndham/philadelphia-pennsylvania/wyndham-philadelphia-historic-district/), which is a few blocks away from the conference venue. Registration is now closed. You can [learn more about KiddieCorp's staffing](https://www.kiddiecorp.com/staffselect.html) and [security procedures](https://www.kiddiecorp.com/security.html).
 
 <div id="sponsortag">
     <span>Childcare at SRCCON:WORK is made possible by</span> <a href="http://www.democracyfund.org/"><img src="/media/img/sponsors/2017/democracy_fund.png" class="childcare" alt="Democracy Fund"></a>

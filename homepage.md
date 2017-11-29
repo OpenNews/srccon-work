@@ -8,6 +8,8 @@ permalink: /index.html
 
 <h2 class="leader">If we’re going to transform newsroom code and culture, we need to invest in the people who do the work.</h2>
 
+{% include live_sessions_table.html %}
+
 SRCCON:WORK is coming up at the Chemical Heritage Foundation in Philadelphia on December 7-8. We have a slate of talks planned on careers, teamwork, and care along with collaborative sessions that dig into the themes.
 
 **[The schedule is now live!](/schedule)**
@@ -38,3 +40,5 @@ Is your company or organization able to help make SRCCON happen? We offer a full
 ## What's next?
 
 Stay in touch by following [@srccon on Twitter](https://twitter.com/srccon) or [signing up for our mailing list](http://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc).
+
+{% include live_sessions_js.html %}

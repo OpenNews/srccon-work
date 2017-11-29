@@ -78,8 +78,16 @@ header.tickets {
   background-image: url(/media/img/backgrounds/tickets.jpg);
   background-size: cover;
 }
+header.facilitators {
+  background-image: url(/media/img/backgrounds/facilitators.jpg);
+  background-size: cover;
+}
 header.childcare {
   background-image: url(/media/img/backgrounds/childcare.jpg);
+  background-size: cover;
+}
+header.remote {
+  background-image: url(/media/img/backgrounds/remote.jpg);
   background-size: cover;
 }
 
@@ -93,11 +101,10 @@ header.scholarships h3, header.scholarships h2,
 header.sessions h3, header.sessions h2,
 header.talks h3, header.talks h2,
 header.tickets h3, header.tickets h2,
-header.childcare h3, header.childcare h2 {
+header.childcare h3, header.childcare h2,
+header.remote h3, header.remote h2 {
   text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
 }
-
-
 
 #headertop {
   width: 100%;

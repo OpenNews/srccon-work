@@ -1,0 +1,72 @@
+<script src="/media/js/moment.min.js"></script>
+<script src="/media/js/moment.timezone.min.js"></script>
+<script>
+// add timezone and set default per http://momentjs.com/timezone/docs/#/data-loading/
+moment.tz.add('America/New_York|EST EDT EWT EPT|50 40 40 40|01010101010101010101010101010101010101010101010102301010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010|-261t0 1nX0 11B0 1nX0 11B0 1qL0 1a10 11z0 1qN0 WL0 1qN0 11z0 1o10 11z0 1o10 11z0 1o10 11z0 1o10 11z0 1qN0 11z0 1o10 11z0 1o10 11z0 1o10 11z0 1o10 11z0 1qN0 WL0 1qN0 11z0 1o10 11z0 1o10 11z0 1o10 11z0 1o10 11z0 1qN0 WL0 1qN0 11z0 1o10 11z0 RB0 8x40 iv0 1o10 11z0 1o10 11z0 1o10 11z0 1o10 11z0 1qN0 WL0 1qN0 11z0 1o10 11z0 1o10 11z0 1o10 11z0 1o10 1fz0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 1cN0 1fz0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 1cN0 1fz0 1a10 1fz0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 1cN0 1fz0 1cN0 1cL0 1cN0 1cL0 s10 1Vz0 LB0 1BX0 1cN0 1fz0 1a10 1fz0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 1cN0 1fz0 1a10 1fz0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 14p0 1lb0 14p0 1nX0 11B0 1nX0 11B0 1nX0 14p0 1lb0 14p0 1lb0 14p0 1nX0 11B0 1nX0 11B0 1nX0 14p0 1lb0 14p0 1lb0 14p0 1lb0 14p0 1nX0 11B0 1nX0 11B0 1nX0 14p0 1lb0 14p0 1lb0 14p0 1nX0 11B0 1nX0 11B0 1nX0 Rd0 1zb0 Op0 1zb0 Op0 1zb0 Rd0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Rd0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Rd0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Rd0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Rd0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0|21e6');
+moment.tz.setDefault("America/New_York");
+var now = moment(),
+    thursdayMorning = moment('2017-12-07 09:30'),
+    thursdayAMtalks = moment('2017-12-07 10:00'),
+    thursdayAMbreak = moment('2017-12-07 10:30'),
+    thursdayPMtalks = moment('2017-12-07 14:45'),
+    thursdayPMbreak = moment('2017-12-07 15:15'),
+    fridayMorning = moment('2017-12-08 09:00'),
+    fridayAMtalks = moment('2017-12-08 10:00'),
+    fridayAMbreak = moment('2017-12-08 10:30'),
+    fridayPMtalks = moment('2017-12-08 14:45'),
+    fridayPMbreak = moment('2017-12-08 15:15'),
+    fridayEvening = moment('2017-12-08 18:00'),
+    fridayEveningEnd = moment('2017-12-08 18:30');
+
+var showLive = function(timeblock) {
+    var timeblockToShow = '',
+        leaderText = '';
+        
+    switch(true) {
+        case now.isBetween(thursdayMorning, thursdayAMtalks):
+            timeblockToShow = '.live-thursday-morning';
+            break;
+        case now.isBetween(thursdayAMtalks, thursdayAMbreak):
+            timeblockToShow = '.live-thursday-am-talks';
+            break;
+        case now.isBetween(thursdayAMbreak, thursdayPMtalks):
+            timeblockToShow = '.live-thursday-pm-talks';
+            leaderText = 'Next up at SRCCON:WORK';
+            break;
+        case now.isBetween(thursdayPMtalks, thursdayPMbreak):
+            timeblockToShow = '.live-thursday-pm-talks';
+            break;
+        case now.isBetween(fridayMorning, fridayAMtalks):
+            timeblockToShow = '.live-friday-morning';
+            break;
+        case now.isBetween(fridayAMtalks, fridayAMbreak):
+            timeblockToShow = '.live-friday-am-talks';
+            break;
+        case now.isBetween(fridayAMbreak, fridayPMtalks):
+            timeblockToShow = '.live-friday-pm-talks';
+            leaderText = 'Next up at SRCCON';
+            break;
+        case now.isBetween(fridayPMtalks, fridayPMbreak):
+            timeblockToShow = '.live-friday-pm-talks';
+            break;
+        case now.isBetween(fridayPMbreak, fridayEvening):
+            timeblockToShow = '.live-friday-evening';
+            leaderText = 'Next up at SRCCON';
+            break;
+        case now.isBetween(fridayEvening, fridayEveningEnd):
+            timeblockToShow = '.live-friday-evening';
+            break;
+    }
+    
+    if (timeblockToShow) {
+        document.querySelector('.live').classList.remove('hidden');
+        [].forEach.call(document.querySelectorAll(timeblockToShow), function(el) {
+            el.classList.remove('hidden');
+        });
+        if (leaderText) {
+            document.querySelector('#live-leader').innerHTML = leaderText;
+        }
+    }
+}
+showLive();
+</script>
