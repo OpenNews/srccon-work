@@ -115,7 +115,7 @@ How you use your time is completely up to you. While you won't need a script lik
  
 ### Will My Session Be Recorded?
  
-SRCCON:WORK works with [White Coat Captioning](http://www.whitecoatcaptioning.com/), and we'll transcribe about 1/3 of our sessions for sharing after the conference is over. The stenographer will be in the Ullyot North room, so if your session is in that spot, it will be transcribed. The transcriptions for these sessions *will not* be shared live. The transcripts may be shared after the event. We will coordinate with you about whether you would like to share the transcript and how you would like to edit it. We know that at this event folks might want to have a lot more "off the record" conversations, so we won't share transcripts live.
+SRCCON:WORK works with [White Coat Captioning](http://www.whitecoatcaptioning.com/), and we'll transcribe about 1/3 of our sessions for sharing after the conference is over. The stenographer will be in the Ullyot North room, so if your session is in that spot, it will be transcribed. The transcriptions for these sessions *will not* be shared live. The transcripts may be shared after the event. We will coordinate with you about whether you would like to share the transcript and how you would like to edit it. We know that at this event folks might want to have a lot more "off the record" conversations, so we won't share session transcripts live.
 
 <span id="tips-facilitations"></span>
 
