@@ -46,8 +46,8 @@ Our sessions are built around participation and collaborative problem-solving wh
 As a facilitator, you bring your experience and excitement (or even skepticism) to leading a discussion or workshop with a highly engaged group.
  
 * **Guide.** You set an agenda for the group. That could be laying out the contours of a problem you are wrestling with, and then guiding a group conversation that explores solutions. Or it could be teaching participants a new skill or technique they can take back to their newsroom.
-* **Invite.** You gather the wisdom in the room. You help make sure everyone feels able to participate, not just the people who already feel comfortable speaking up. You have the power to make conversations inclusive, and to help the room reach consensus, build connections, and find best practices.
-* **Organize.** You help everyone make the session productive. That means keeping an eye on time, and working through the activities on your agenda. At the end, you bring everything to a close, helping attendees summarize what they worked on and calling out key takeaways.
+* **Invite.** You gather the wisdom in the room. You help make sure everyone feels able to participate, not just the people who already feel comfortable speaking up. You have the power to make conversations inclusive and to help the room reach consensus, build connections, and find best practices.
+* **Organize.** You help everyone make the session productive. That means keeping an eye on time and working through the activities on your agenda. At the end, you bring everything to a close, helping attendees summarize what they worked on and calling out key takeaways.
  
 Facilitators don't need to come in with all the answers. You're there to guide discussions or collaborative work, and to help attendees contribute and walk away having learned something new. 
 
@@ -59,7 +59,7 @@ We'll have an in-person facilitator training on Wednesday, December 6 from 5:30-
  
 SRCCON:WORK attendees show up ready to pitch in, whether that's working through activities, writing collaboratively, or participating in conversations. Much of the work you'll do as a facilitator will take place in the weeks leading up to SRCCON:WORK, as you outline your session. We've found that keeping two things in mind can help translate your awesome ideas into a meaningful experience for SRCCON:WORK attendees:
  
-* **Scope:** Broad topics need some boundaries, or conversations won't go anywhere. Niche sessions are great, but need enough topical space for a variety of people to participate. Similarly, over-programming a session with too many activities can make it impossible to get to your goals—but a session that's underdesigned can easily turn into a conversation between a handful of the loudest people.
+* **Scope:** Broad topics need some boundaries, or conversations won't go anywhere. Niche sessions are great but need enough topical space for a variety of people to participate. Similarly, over-programming a session with too many activities can make it impossible to get to your goals—but a session that's underdesigned can easily turn into a conversation between a handful of the loudest people.
 * **Outcomes:** Think about what you want attendees to take away from your session. A new or improved skill? A broader sense of community? The excitement of solving a problem they'd been facing alone? If you start planning your session by thinking about the end, it helps you focus everything leading up to that moment.
  
 From there, you have a huge amount of room to explore creative ways to work with attendees. Slide presentations and lectures aren’t what you’re after, but conversations and small-group work are staples on the SRCCON:WORK schedule. There are many outstanding session formats to consider, as well: design exercises, games, technical workshops, role-playing, even physical movement and field trips outside the conference space. Fun is good. We'll support all sorts of ways to help you engage with people and make abstract concepts real.
@@ -90,7 +90,7 @@ First and foremost, you’ll be surrounded by peers—people excited about journ
  
 As a facilitator, there are a couple ways you can really support the people in your room:
  
-* Be a mindful and inclusive leader. There are some [simple things you can do](#tips-inclusivity) to help all your attendees feel able to participate, and make the experience better for everyone in the room. 
+* Be a mindful and inclusive leader. There are some [simple things you can do](#tips-inclusivity) to help all your attendees feel able to participate and make the experience better for everyone in the room. 
 * Help your attendees prepare before they get there. Many (but not all!) of the attendees check out the schedule and plan what to attend in advance, so your session description is an important preparation resource. Be clear about what attendees will do in your session and what they’ll walk away with. If they should do any prep (like reading or bringing examples of their own work), let them know, but be ready for folks to join you last-minute as well. If you could use additional resources, let _us_ know and we’ll get you what you need.
 
 <span id="what-materials"></span>
@@ -133,10 +133,10 @@ SRCCON:WORK is built upon participation and folks are coming to your session exp
 
 * You can decide in the moment how to handle unexpected challenges. You can also decide when it is best to throw out your original agenda and try something new.
 * If a problematic comment comes up in your session, you can confront the issue. For example, if a participant only uses male pronouns to refer to developers, you might clarify that there are skilled developers of all genders, including some folks right there in the room.
-* Guide the tenor of the discussion—it’s a conversation, not a debate. Try to make sure the room isn’t dominated by just a few voices; keep an eye out for body language that says “I might have something to add” even when that person doesn’t feel confident enough to cut in. Go ahead and call on that person to see if they’d like to say something. You can also tell folks who keep chattin that you’d like to hear from other people in the room.
+* Guide the tenor of the discussion—it’s a conversation, not a debate. Try to make sure the room isn’t dominated by just a few voices; keep an eye out for body language that says “I might have something to add” even when that person doesn’t feel confident enough to cut in. Go ahead and call on that person to see if they’d like to say something. You can also tell folks who keep chatting that you’d like to hear from other people in the room.
 * Elicit reflection from the group. "Noticings," or observations without judgment, can help participants build self-awareness and explore statements. For example, "I noticed that you referenced a study, could you say more about what struck you about it?" When you do get a comment that’s not quite what you expected, you can almost always find part of it to build on.
 
-**Work with people in the room.** Leading a group of creative people toward a common goal can be hard, especially while you're juggling time, information, and conversations. A cofacilitator can help lighten the load, and keeps each of you from having to be “on” the whole time. But also don’t be afraid to ask an enthusiastic attendee to help keep time, take notes, or watch for people with something to say.
+**Work with people in the room.** Leading a group of creative people toward a common goal can be hard, especially while you're juggling time, information, and conversations. A cofacilitator can help lighten the load and keeps each of you from having to be “on” the whole time. But also don’t be afraid to ask an enthusiastic attendee to help keep time, take notes, or watch for people with something to say.
 
 **Be clear about outcomes.** Call out the goals for each discussion at the outset, check along the way that you're making progress toward them, and review goals at the end of the session. (This is sometimes referred to as "tell them what you're going to tell them, then tell them, then tell them what you told them.")
  
