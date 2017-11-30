@@ -1,7 +1,7 @@
 ---
 layout: layout
 title: Thursday Dinner
-subtitle: Let's explore Philly and enjoy dinner together!
+subtitle: Let’s explore Philly and enjoy dinner together!
 section: logistics
 sub-section: interior
 background: philly
@@ -17,43 +17,49 @@ So what's this all about? We made reservations at restaurants around town, with 
 
 ## Restaurants include:
 
-- [The Little Lion](http://www.thelittlelionphilly.com), 	(American Contemporary)
-- [Zento](https://www.zentocontemporary.com) (Sushi, from a protege of an Iron Chef)
-- [Han Dynasty](http://handynasty.net), (Chinese in a fancy old building)
-- [Capofitto](http://capofittoforno.com), (Pizza, very casual, very tasty gelato)
-- [Distrito](http://philadelphia.distritorestaurant.com), (Taqueria from an Iron Chef (does anyone even know what that is anymore?))
-- [Ekta](http://ektaindianrestaurant.com), (buffet or menu, super casual and super tasty.)
-- [Sate Kampar](https://www.facebook.com/SateKampar), (Malaysian + BYOB + many tasty teas/coffees)
-- [Brigantessa](https://www.brigantessamenu.com), (Italian, in South Philly, like Rocky, but much more recent)
-- [New Harmony Vegetarian](https://www.happycow.net/reviews/new-harmony-philadelphia-2469), (Vegan/kosher Chinese with KARAOKE)
+* [The Little Lion](http://www.thelittlelionphilly.com), 	(American Contemporary)
+* [Zento](https://www.zentocontemporary.com) (Sushi, from a protege of an Iron Chef)
+* [Han Dynasty](http://handynasty.net), (Chinese in a fancy old building)
+* [Capofitto](http://capofittoforno.com), (Pizza, very casual, very tasty gelato)
+* [Distrito](http://philadelphia.distritorestaurant.com), (Taqueria from an Iron Chef (does anyone even know what that is anymore?))
+* [Ekta](http://ektaindianrestaurant.com), (buffet or menu, super casual and super tasty.)
+* [Sate Kampar](https://www.facebook.com/SateKampar), (Malaysian + BYOB + many tasty teas/coffees)
+* [Brigantessa](https://www.brigantessamenu.com), (Italian, in South Philly, like Rocky, but much more recent)
+* [New Harmony Vegetarian](https://www.happycow.net/reviews/new-harmony-philadelphia-2469), (Vegan/kosher Chinese with KARAOKE)
 
-### What time does dinner start?
+**What time does dinner start?**
+
 All reservations start at 7:30pm and should finish around 9-10pm. Please aim to be 15 minutes early; most restaurants will not seat the party until everyone has arrived, and may cancel the reservation if not everyone has arrived by 15 – 30 minutes past the reservation time.
 
-### Who is paying for dinner?
+**Who is paying for dinner?**
+
 Why thank you for asking! We are inviting attendees to host an individual dinner and cover the cost for everyone at that table (or ask if your company can). Sound of interest? [Email us](mailto:erika@opennews.org). It's a low-key way for a company to support a great community event. It's also a great way to build some skills asking for funds, which may come in handy for your own future projects.
 
 We will keep track of host signups and ensure that every dinner is covered by either a host or OpenNews. We will cover your meals and any non-alcoholic drinks, but if you would like to purchase alcohol you will be able to purchase it from the restaurant directly.
 
-### How can I be part of a dinner?
+**How can I be part of a dinner?**
+
 Look at the [sign-up sheet](https://docs.google.com/spreadsheets/d/1CMJTFDO_YNQbGlgLKi5IjOPh5sz1nFs_Y9OQCcSnVuE/edit#gid=0), find a dinner with an unfilled attendee slot, and enter your name. You’re set.
 
-### Can I go to a restaurant not on the list?
+**Can I go to a restaurant not on the list?**
+
 Your time is your own, but these reservations are the only ones that OpenNews are covering. If you'd like to organize other dinners or events for the rest of SRCCON:WORK, you can [share ideas on this etherpad](https://etherpad.opennews.org/p/SRCCONWORK2017)
 
-### Can I bring a friend or partner to dinner?
+**Can I bring a friend or partner to dinner?**
+
 If there's space, feel free to sign up a +1 (kiddos are included, we'd love to have them join, just make sure they get an RSVP slot). If you have more than a +1, please [email us](mailto:erika@opennews.org) and we'll see if we can add another restaurant option to accommodate more folks!
 
-### I want to go to a dinner but there’s already 10 people signed up! Can I still go to it?
+**I want to go to a dinner but there’s already 10 people signed up! Can I still go to it?**
+
 Please choose another dinner. Groups of above 10 people get unwieldy and make it hard to get to know everyone.
 
-### I want specific people to come to a dinner with me but there’s not enough slots left for us all!
+**I want specific people to come to a dinner with me but there’s not enough slots left for us all!**
 Please choose a dinner with more slots or [let us know](mailto:erika@opennews.org) and we'll see if we can add another spot.
 
-### When I arrive at the restaurant, what reservation do I ask for?
+**When I arrive at the restaurant, what reservation do I ask for?**
 Reservations are mostly under the name “Erik Westra” Check the field in the dinner document to confirm yours.
 
-### How do I get to the restaurant?
+**How do I get to the restaurant?**
 The address of each restaurant is in the spreadsheet, along with suggested ways to get there. Check the [SRCCON:WORK website](https://work.srccon.org/logistics) for information on public transit, cabs, etc.
 
 Thanks again to [AdaCamp for this resource](https://adacamp.org/adacamp-toolkit/group-dinners/), which was adapted under a Creative Commons Attribution-ShareAlike 4.0 International License.

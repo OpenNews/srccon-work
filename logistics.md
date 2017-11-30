@@ -73,7 +73,7 @@ If you’re looking for things to do before, after, or during SRCCON:WORK, check
 
 ## Childcare
 
-We offer free, on-site childcare throughout the full SRCCON:WORK schedule (including Thursday dinner) at the nearby Wyndham Hotel. The caregivers act as employees of KiddieCorp (not contractors) and are recruited from local licensed daycare centers, elementary schools, preschools, and collegiate departments of early childhood education. [Learn more about our free childcare now](/childcare).
+We offer free, on-site childcare throughout the full SRCCON:WORK schedule (including Thursday dinner) at the nearby Wyndham Hotel. The caregivers act as employees of KiddieCorp (not contractors) and are recruited from local licensed daycare centers, elementary schools, preschools, and collegiate departments of early childhood education. Registration is now closed for childcare but you can [learn more about our free childcare now](/childcare).
 
 <span id="transit"></span>
 
