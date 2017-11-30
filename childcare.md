@@ -8,6 +8,8 @@ background: childcare
 permalink: /childcare/index.html
 ---
 
+**Registration for childcare is now closed.**
+
 We are offering free childcare throughout the full SRCCON:WORK schedule (including Thursday dinner). Our providers are the wonderful [KiddieCorp](https://www.kiddiecorp.com/) team, whom we welcome back for the fourth time.
 
 ## Our care providers
