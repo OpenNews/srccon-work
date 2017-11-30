@@ -58,6 +58,15 @@ permalink: /sponsors/index.html
     </li>
 </ul>
 
+<h2>Local Sponsor</h2>
+<ul class="local-sponsors">
+    <li>
+        <a href="https://www.azavea.com/" class="imglink">
+            <img src="/media/img/sponsors/2017/azavea.svg">
+        </a>
+    </li>
+</ul>
+
 <h2>Supporting Sponsor</h2>
 <ul class="supporting-sponsors">
     <li>

@@ -20,9 +20,12 @@ This page should cover all the logistical details you may need as you get ready 
 
 ## During SRCCON:WORK
 
-We’ve tried to think of everything you might need, from [hearty, tasty meals](#meals) to [childcare](#childcare). And you can [check out the full schedule](/schedule).
+We’ve tried to think of everything you might need, from [hearty, tasty meals](#meals) to [childcare](#childcare). We also want to make sure that you have the support you need to take care of yourself and each other. And you can [check out the full schedule](/schedule).
 
-When you arrive at the venue, we’ll have on-the-spot signups for emergent conversations, job openings, and things to do with new friends in Philly. We'll have a Thursday evening plan for dinners out with fellow SRCCON:WORK attendees (details and sign up soon!). We’ve also gathered details about a [local Alcoholics Anonymous meeting](#aa), and places nearby to make sure your [health needs](#health) are taken care of.
+When you arrive at the venue, we’ll have on-the-spot signups for emergent conversations, job openings, and things to do with new friends in Philly. You can also [sign up now](https://docs.google.com/spreadsheets/d/1CMJTFDO_YNQbGlgLKi5IjOPh5sz1nFs_Y9OQCcSnVuE/edit#gid=0) for small-group dinners on Thursday night. We’ve also gathered details about a [local Alcoholics Anonymous meeting](#aa), and places nearby to make sure your [health needs](#health) are taken care of.
+
+Also, the entirety of SRCCON:WORK is covered by our [code of conduct](/conduct).
+
 
 Also, the entirety of SRCCON:WORK is covered by our [code of conduct](/conduct).
 
@@ -61,7 +64,7 @@ Have a room and looking for a roommate? Don’t have a room and looking for some
 
 ## Meals at SRCCON
 
-We want you to be happy and well-fed at SRCCON:WORK, so we’re providing breakfast and lunch on both days. We’ll have tea, coffee, and snacks—both healthy and sugary—throughout the day as well. And we'll share more soon about Thursday night dinner plans for SRCCON:WORK attendees!
+We want you to be happy and well-fed at SRCCON:WORK, so we’re providing breakfast and lunch on both days. We’ll have tea, coffee, and snacks—both healthy and sugary—throughout the day as well. And Thursday night, we'll explore the city and enjoy small group dinners. [Learn more about our Thursday dinners](/logistics/dinner)
 
 <span id="todo"></span>
 
@@ -73,7 +76,7 @@ If you’re looking for things to do before, after, or during SRCCON:WORK, check
 
 ## Childcare
 
-We offer free, on-site childcare throughout the full SRCCON:WORK schedule (including Thursday dinner) at the nearby Wyndham Hotel. The caregivers act as employees of KiddieCorp (not contractors) and are recruited from local licensed daycare centers, elementary schools, preschools, and collegiate departments of early childhood education. [Learn more about our free childcare now](/childcare).
+We offer free, on-site childcare throughout the full SRCCON:WORK schedule (including Thursday dinner) at the nearby Wyndham Hotel. The caregivers act as employees of KiddieCorp (not contractors) and are recruited from local licensed daycare centers, elementary schools, preschools, and collegiate departments of early childhood education. Registration is now closed for childcare but you can [learn more about our free childcare now](/childcare).
 
 <span id="transit"></span>
 
