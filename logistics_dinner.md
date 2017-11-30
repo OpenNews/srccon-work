@@ -13,19 +13,7 @@ permalink: /logistics/dinner/index.html
 At our events, we love to feed folks and look for chances to enjoy the flavor of the city too (just wait till you see our snacks). This year, we're trying out small group dinners around the city for our Thursday evening meal. These dinners are [inspired by AdaCamp](https://adacamp.org/adacamp-toolkit/group-dinners/) and we're excited to share them with you!
 
 ## Thursday Night Dinner
-So what's this all about? We made reservations at restaurants around town, with a mix of cuisine types and locations. [Sign up now for a spot at dinner!](https://docs.google.com/spreadsheets/d/1CMJTFDO_YNQbGlgLKi5IjOPh5sz1nFs_Y9OQCcSnVuE/edit#gid=0) We've made reservations for 10 people, so you'll be able to get to know a smaller group of folks a little bit better. 
-
-## Restaurants include:
-
-* [The Little Lion](http://www.thelittlelionphilly.com), 	(American Contemporary)
-* [Zento](https://www.zentocontemporary.com) (Sushi, from a protege of an Iron Chef)
-* [Han Dynasty](http://handynasty.net), (Chinese in a fancy old building)
-* [Capofitto](http://capofittoforno.com), (Pizza, very casual, very tasty gelato)
-* [Distrito](http://philadelphia.distritorestaurant.com), (Taqueria from an Iron Chef (does anyone even know what that is anymore?))
-* [Ekta](http://ektaindianrestaurant.com), (buffet or menu, super casual and super tasty.)
-* [Sate Kampar](https://www.facebook.com/SateKampar), (Malaysian + BYOB + many tasty teas/coffees)
-* [Brigantessa](https://www.brigantessamenu.com), (Italian, in South Philly, like Rocky, but much more recent)
-* [New Harmony Vegetarian](https://www.happycow.net/reviews/new-harmony-philadelphia-2469), (Vegan/kosher Chinese with KARAOKE)
+So what's this all about? We made reservations at restaurants around town, with a mix of cuisine types and locations. [Sign up now for a spot at dinner!](https://docs.google.com/spreadsheets/d/1CMJTFDO_YNQbGlgLKi5IjOPh5sz1nFs_Y9OQCcSnVuE/edit#gid=0) We've made reservations for 10 people, so you'll be able to get to know a smaller group of folks a little bit better.
 
 **What time does dinner start?**
 
