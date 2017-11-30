@@ -20,9 +20,12 @@ This page should cover all the logistical details you may need as you get ready 
 
 ## During SRCCON:WORK
 
-We’ve tried to think of everything you might need, from [hearty, tasty meals](#meals) to [childcare](#childcare). And you can [check out the full schedule](/schedule).
+We’ve tried to think of everything you might need, from [hearty, tasty meals](#meals) to [childcare](#childcare). We also want to make sure that you have the support you need to take care of yourself and each other. And you can [check out the full schedule](/schedule).
 
-When you arrive at the venue, we’ll have on-the-spot signups for emergent conversations, job openings, and things to do with new friends in Philly. We'll have a Thursday evening plan for dinners out with fellow SRCCON:WORK attendees (details and sign up soon!). We’ve also gathered details about a [local Alcoholics Anonymous meeting](#aa), and places nearby to make sure your [health needs](#health) are taken care of.
+When you arrive at the venue, we’ll have on-the-spot signups for emergent conversations, job openings, and things to do with new friends in Philly. You can also [sign up now]() for small-group dinners on Thursday night. We’ve also gathered details about a [local Alcoholics Anonymous meeting](#aa), and places nearby to make sure your [health needs](#health) are taken care of.
+
+Also, the entirety of SRCCON:WORK is covered by our [code of conduct](/conduct).
+
 
 Also, the entirety of SRCCON:WORK is covered by our [code of conduct](/conduct).
 
@@ -61,7 +64,7 @@ Have a room and looking for a roommate? Don’t have a room and looking for some
 
 ## Meals at SRCCON
 
-We want you to be happy and well-fed at SRCCON:WORK, so we’re providing breakfast and lunch on both days. We’ll have tea, coffee, and snacks—both healthy and sugary—throughout the day as well. And we'll share more soon about Thursday night dinner plans for SRCCON:WORK attendees!
+We want you to be happy and well-fed at SRCCON:WORK, so we’re providing breakfast and lunch on both days. We’ll have tea, coffee, and snacks—both healthy and sugary—throughout the day as well. And Thursday night, we'll explore the city and enjoy small group dinners. [Learn more about our Thursday dinners](/logistics/dinner)
 
 <span id="todo"></span>
 
