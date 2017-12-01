@@ -120,7 +120,7 @@
     }, 
     {
         "day": "Thursday", 
-        "description": "How do we build and foster lasting teams and do great work, with no blueprint, no peers, and no guarantee our teams will stay together after we leave?\n\nMost news desks have been around a long time. They enjoy a historical continuity going back decades if not a century. Take the Metro Desk: It may take on new roles and responsibilities, and rethink a lot of their coverage, but the basic workings of the department are, for the most part, inherited. And when one Metro editor leaves, another takes her place and operates in a pretty similar way. \n\nBut that's not how things work for hybrid newsroom teams, like the ones that integrate data, images, graphics, video and code. There's no set of established guidelines for being their editor -- for elevating their work or for making sure they get to do the great journalism they should be doing. Many new editors need to figure things out for themselves.\n\nAnd when leaders leave, innovative newsroom teams are often victims of restructuring and destructive “reconceptualizations.” The fact is, the Metro desk doesn’t need to worry that it will be disbanded because its editor leaves. The news apps and visuals teams do.\n\nLet’s talk about how to start something new -- and how to make it forever:\n\nHow to bootstrap and then keep building a team.\nHow to manage up to executives and out to other departments.\nHow to develop allies so you know about projects that need you before you see them published.\nHow to teach and evangelize your team’s culture and working style to more traditional editors and reporters.\nHow to set long-term goals for the work and share them with your staff.\nHow to support members on your team who work outside your discipline.\nFor non-managers, how to measure the political winds, how to set yourself up to move up, and what to expect from your manager and your newsroom.\n \nNone of us knows all the answers. This is all a work in progress. Let's learn from each other here so we don't keep repeating this process from scratch. This is a conversation for managers, for people who want to be managers, and for people who'd like to be managed well.", 
+        "description": "How do we build and foster lasting teams and do great work, with no blueprint, no peers, and no guarantee our teams will stay together after we leave?\n\nMost news desks have been around a long time. They enjoy a historical continuity going back decades if not a century. Take the Metro Desk: It may take on new roles and responsibilities, and rethink a lot of their coverage, but the basic workings of the department are, for the most part, inherited. And when one Metro editor leaves, another takes her place and operates in a pretty similar way. \n\nBut that's not how things work for hybrid newsroom teams, like the ones that integrate data, images, graphics, video and code. There's no set of established guidelines for being their editor -- for elevating their work or for making sure they get to do the great journalism they should be doing. Many new editors need to figure things out for themselves.\n\nAnd when leaders leave, innovative newsroom teams are often victims of restructuring and destructive “reconceptualizations.” The fact is, the Metro desk doesn’t need to worry that it will be disbanded because its editor leaves. The news apps and visuals teams do.\n\nLet’s talk about how to start something new -- and how to make it forever:\n\n* How to bootstrap and then keep building a team.  \n* How to manage up to executives and out to other departments.  \n* How to develop allies so you know about projects that need you before you see them published.  \n* How to teach and evangelize your team’s culture and working style to more traditional editors and reporters.  \n* How to set long-term goals for the work and share them with your staff.  \n* How to support members on your team who work outside your discipline.  \n* For non-managers, how to measure the political winds, how to set yourself up to move up, and what to expect from your manager and your newsroom.  \n \nNone of us knows all the answers. This is all a work in progress. Let's learn from each other here so we don't keep repeating this process from scratch. This is a conversation for managers, for people who want to be managers, and for people who'd like to be managed well.", 
         "everyone": "", 
         "facilitators": "Scott Klein, Kainaz Amaria", 
         "facilitators_twitter": "kleinmatic,kainazamaria", 
@@ -443,23 +443,6 @@
     }, 
     {
         "day": "Friday", 
-        "description": "We're both middles: folks who somehow ended up in leadership positions after coming up in a turbulent time of rapid change for newsrooms. Sometimes we're managers, sometimes we're not. But still, it's possible to develop leadership skills and contribute leadership  to your news organization, no matter where you sit on the org chart. We have some thoughts on leadership and how it does/doesn't relate to management (we believe anyone can be a leader!), and we want to hear how others are leading from wherever you are.", 
-        "everyone": "", 
-        "facilitators": "Emma Carew Grovum, Kim Bui", 
-        "facilitators_twitter": "emmacarew,kimbui", 
-        "id": "lead-from-middle", 
-        "length": "60 minutes", 
-        "notepad": "y", 
-        "room": "Haas", 
-        "talk": "", 
-        "theme": "Collaboration & Teamwork", 
-        "time": "12:15-1:15pm", 
-        "timeblock": "friday-am-2", 
-        "title": "Not All Leaders Are Managers: How to Lead from the Middle", 
-        "transcription": ""
-    }, 
-    {
-        "day": "Friday", 
         "description": "Between the pressures of news cycles, editorial priorities and evolving audience habits, newsrooms struggle to prioritize establishing a work environment conducive to great journalism. While remote work introduces great flexibility for employer and employee, it further exacerbates some of these challenges, and can limit one's ability to thrive as well as the newsroom's ability to make the most of the talent they recruit.\n\nWith the goal of creating a concrete artifact (some type of reference material, like a guide) for employers and individuals on how to establish a thriving remote work relationship for newsrooms, participants in this workshop will contribute their experiences of positive and negative remote working arrangements and shape how these insights should be shared with newsrooms, co-located team members and new remote contributors.\n\nDreaming big: If time allows, an even better possibility is conducting a survey *before* SRCCON:WORK on remote practices in newsrooms so participants can spend their time augmenting community findings rather than starting from scratch.\n\nDreaming bigger: in addition to publishing the final artifact on Source, further work would include finding the right channels and settings to reach newsrooms managers and HR teams to directly share and advocate good practices.", 
         "everyone": "", 
         "facilitators": "Livia Labate", 
@@ -473,6 +456,23 @@
         "time": "12:15-1:15pm", 
         "timeblock": "friday-am-2", 
         "title": "Remotely effective: a guide to thriving newsrooms collaborations from afar", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Friday", 
+        "description": "We're both middles: folks who somehow ended up in leadership positions after coming up in a turbulent time of rapid change for newsrooms. Sometimes we're managers, sometimes we're not. But still, it's possible to develop leadership skills and contribute leadership  to your news organization, no matter where you sit on the org chart. We have some thoughts on leadership and how it does/doesn't relate to management (we believe anyone can be a leader!), and we want to hear how others are leading from wherever you are.", 
+        "everyone": "", 
+        "facilitators": "Emma Carew Grovum, Kim Bui", 
+        "facilitators_twitter": "emmacarew,kimbui", 
+        "id": "lead-from-middle", 
+        "length": "60 minutes", 
+        "notepad": "y", 
+        "room": "Haas", 
+        "talk": "", 
+        "theme": "Collaboration & Teamwork", 
+        "time": "12:15-1:15pm", 
+        "timeblock": "friday-am-2", 
+        "title": "Not All Leaders Are Managers: How to Lead from the Middle", 
         "transcription": ""
     }, 
     {
