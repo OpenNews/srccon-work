@@ -26,9 +26,6 @@ When you arrive at the venue, we’ll have on-the-spot signups for emergent conv
 
 Also, the entirety of SRCCON:WORK is covered by our [code of conduct](/conduct).
 
-
-Also, the entirety of SRCCON:WORK is covered by our [code of conduct](/conduct).
-
 <span id="lodging"></span>
 
 ## Hotel
@@ -36,21 +33,21 @@ Also, the entirety of SRCCON:WORK is covered by our [code of conduct](/conduct).
 We have a discounted block of rooms at the Wyndham Philadelphia Historic District Hotel a few blocks from the conference venue. Our hotel block is now sold out, but here are other hotels within 15–20 minutes by walking or easily accesible on transit:
 
 **[Sheraton Society Hill](http://www.sheratonphiladelphiasocietyhill.com/)**  
-.3 miles away  
+[.3 miles away](https://goo.gl/maps/qrEQQjxat4s) (≈6 minutes by walking)  
 One Dock Street  
 Philadelphia, PA 19106  
 888-627-7078  
 King Room: prepaid—$215/night, flexible—$255/night
 
 **[Four Points by Sheraton City Center](http://www.fourpointsphiladelphiacitycenter.com/)**  
-1.1 miles  
+[1.1 miles](https://goo.gl/maps/PH48Jkd9d2U2) (≈16 minutes by bus)  
 1201 Race Street  
 Philadelphia, PA, 19107  
 866-716-8133  
 King Room: flexible: $249/night
 
 **[Club Quarters Midtown](https://clubquartershotels.com/locations/club-quarters-hotel-philadelphia)**  
-1.1 miles  
+[1.1 miles](https://goo.gl/maps/gbtythMKf5L2) (≈12 minutes by bus)  
 1628 Chestnut Street  
 Philadelphia, PA 19103  
 215-282-5000  
@@ -64,7 +61,7 @@ Have a room and looking for a roommate? Don’t have a room and looking for some
 
 ## Meals at SRCCON
 
-We want you to be happy and well-fed at SRCCON:WORK, so we’re providing breakfast and lunch on both days. We’ll have tea, coffee, and snacks—both healthy and sugary—throughout the day as well. And Thursday night, we'll explore the city and enjoy small group dinners. [Learn more about our Thursday dinners](/logistics/dinner)
+We want you to be happy and well-fed at SRCCON:WORK, so we’re providing breakfast and lunch on both days. We’ll have tea, coffee, and snacks—both healthy and sugary—throughout the day as well. And Thursday night, we'll explore the city and enjoy small group dinners. [Learn more about our Thursday dinners](/logistics/dinner).
 
 <span id="todo"></span>
 
