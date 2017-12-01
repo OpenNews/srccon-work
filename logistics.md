@@ -33,21 +33,21 @@ Also, the entirety of SRCCON:WORK is covered by our [code of conduct](/conduct).
 We have a discounted block of rooms at the Wyndham Philadelphia Historic District Hotel a few blocks from the conference venue. Our hotel block is now sold out, but here are other hotels within 15–20 minutes by walking or easily accesible on transit:
 
 **[Sheraton Society Hill](http://www.sheratonphiladelphiasocietyhill.com/)**  
-[.3 miles away](https://goo.gl/maps/qrEQQjxat4s) (≈6 minutes by walking)  
+.3 miles away ([≈6 minutes by walking](https://goo.gl/maps/qrEQQjxat4s))  
 One Dock Street  
 Philadelphia, PA 19106  
 888-627-7078  
 King Room: prepaid—$215/night, flexible—$255/night
 
 **[Four Points by Sheraton City Center](http://www.fourpointsphiladelphiacitycenter.com/)**  
-[1.1 miles](https://goo.gl/maps/PH48Jkd9d2U2) (≈16 minutes by bus)  
+1.1 miles ([≈16 minutes by bus](https://goo.gl/maps/PH48Jkd9d2U2))  
 1201 Race Street  
 Philadelphia, PA, 19107  
 866-716-8133  
 King Room: flexible: $249/night
 
 **[Club Quarters Midtown](https://clubquartershotels.com/locations/club-quarters-hotel-philadelphia)**  
-[1.1 miles](https://goo.gl/maps/gbtythMKf5L2) (≈12 minutes by bus)  
+1.1 miles ([≈12 minutes by bus](https://goo.gl/maps/gbtythMKf5L2))  
 1628 Chestnut Street  
 Philadelphia, PA 19103  
 215-282-5000  
