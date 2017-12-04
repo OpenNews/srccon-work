@@ -20,14 +20,11 @@ This page should cover all the logistical details you may need as you get ready 
 
 ## During SRCCON:WORK
 
-We’ve tried to think of everything you might need, from [hearty, tasty meals](#meals) to [childcare](#childcare). We also want to make sure that you have the support you need to take care of yourself and each other. And you can [check out the full schedule](/schedule).
+We’ve tried to think of everything you might need, from [hearty, tasty meals](#meals) to [childcare](#childcare). We also want to make sure that you have the [support you need to take care of yourself and each other](/support). And you can [check out the full schedule](/schedule).
 
 When you arrive at the venue, we’ll have on-the-spot signups for emergent conversations, job openings, and things to do with new friends in Philly. You can also [sign up now](https://docs.google.com/spreadsheets/d/1CMJTFDO_YNQbGlgLKi5IjOPh5sz1nFs_Y9OQCcSnVuE/edit#gid=0) for small-group dinners on Thursday night. We’ve also gathered details about a [local Alcoholics Anonymous meeting](#aa), and places nearby to make sure your [health needs](#health) are taken care of.
 
-Also, the entirety of SRCCON:WORK is covered by our [code of conduct](/conduct).
-
-
-Also, the entirety of SRCCON:WORK is covered by our [code of conduct](/conduct).
+Also, the entirety of SRCCON:WORK is covered by our [code of conduct](/conduct). We have also created a [support team and articulated ground rules](/support) to help us care for each other.
 
 <span id="lodging"></span>
 
@@ -36,21 +33,21 @@ Also, the entirety of SRCCON:WORK is covered by our [code of conduct](/conduct).
 We have a discounted block of rooms at the Wyndham Philadelphia Historic District Hotel a few blocks from the conference venue. Our hotel block is now sold out, but here are other hotels within 15–20 minutes by walking or easily accesible on transit:
 
 **[Sheraton Society Hill](http://www.sheratonphiladelphiasocietyhill.com/)**  
-.3 miles away  
+.3 miles away ([≈6 minutes by walking](https://goo.gl/maps/qrEQQjxat4s))  
 One Dock Street  
 Philadelphia, PA 19106  
 888-627-7078  
 King Room: prepaid—$215/night, flexible—$255/night
 
 **[Four Points by Sheraton City Center](http://www.fourpointsphiladelphiacitycenter.com/)**  
-1.1 miles  
+1.1 miles ([≈16 minutes by bus](https://goo.gl/maps/PH48Jkd9d2U2))  
 1201 Race Street  
 Philadelphia, PA, 19107  
 866-716-8133  
 King Room: flexible: $249/night
 
 **[Club Quarters Midtown](https://clubquartershotels.com/locations/club-quarters-hotel-philadelphia)**  
-1.1 miles  
+1.1 miles ([≈12 minutes by bus](https://goo.gl/maps/gbtythMKf5L2))  
 1628 Chestnut Street  
 Philadelphia, PA 19103  
 215-282-5000  
@@ -64,7 +61,7 @@ Have a room and looking for a roommate? Don’t have a room and looking for some
 
 ## Meals at SRCCON
 
-We want you to be happy and well-fed at SRCCON:WORK, so we’re providing breakfast and lunch on both days. We’ll have tea, coffee, and snacks—both healthy and sugary—throughout the day as well. And Thursday night, we'll explore the city and enjoy small group dinners. [Learn more about our Thursday dinners](/logistics/dinner)
+We want you to be happy and well-fed at SRCCON:WORK, so we’re providing breakfast and lunch on both days. We’ll have tea, coffee, and snacks—both healthy and sugary—throughout the day as well. And Thursday night, we'll explore the city and enjoy small group dinners. [Learn more about our Thursday dinners](/logistics/dinner).
 
 <span id="todo"></span>
 
