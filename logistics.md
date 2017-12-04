@@ -24,7 +24,7 @@ We’ve tried to think of everything you might need, from [hearty, tasty meals](
 
 When you arrive at the venue, we’ll have on-the-spot signups for emergent conversations, job openings, and things to do with new friends in Philly. You can also [sign up now](https://docs.google.com/spreadsheets/d/1CMJTFDO_YNQbGlgLKi5IjOPh5sz1nFs_Y9OQCcSnVuE/edit#gid=0) for small-group dinners on Thursday night. We’ve also gathered details about a [local Alcoholics Anonymous meeting](#aa), and places nearby to make sure your [health needs](#health) are taken care of.
 
-Also, the entirety of SRCCON:WORK is covered by our [code of conduct](/conduct). For SRCCON:WORK, we have also created a [support team and articulated ground rules](/support) to help us care for each other.
+Also, the entirety of SRCCON:WORK is covered by our [code of conduct](/conduct). We have also created a [support team and articulated ground rules](/support) to help us care for each other.
 
 <span id="lodging"></span>
 
