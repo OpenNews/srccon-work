@@ -14,7 +14,7 @@ permalink: /index.html
 
 SRCCON:WORK Attendees, welcome to Philly!
 
-We are so glad to have you here with us. If you need logistics info, [we have you covered](/logistics) and of course the handy, mobile-friendly [schedule app](http://schedule.work.srccon.org) is available for all your session planning needs. The registration desk in [location] will be staffed throughout the event, and our safety helpline is **(612) 584-1131**.
+We are so glad to have you here with us. If you need logistics info, [we have you covered](/logistics) and of course the handy, mobile-friendly [schedule app](http://schedule.work.srccon.org) is available for all your session planning needs. The registration desk in the lobby will be staffed throughout the event, and our safety and support helpline is **(612) 584-1131**.
 
 If you’re not here with us in Philly, we invite you to check out our [**remote-participation options**](/transcription).
 
