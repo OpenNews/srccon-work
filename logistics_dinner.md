@@ -27,7 +27,7 @@ We will keep track of host signups and ensure that every dinner is covered by ei
 
 **How can I be part of a dinner?**  
 
-Look at the [sign-up sheet](https://docs.google.com/spreadsheets/d/1CMJTFDO_YNQbGlgLKi5IjOPh5sz1nFs_Y9OQCcSnVuE/edit#gid=0), find a dinner with an unfilled attendee slot, and enter your name. You’re set.
+The dinner [sign-up sheet](https://docs.google.com/spreadsheets/d/1CMJTFDO_YNQbGlgLKi5IjOPh5sz1nFs_Y9OQCcSnVuE/edit#gid=0) is now locked, but we still have space for dinner at the New Harmony Vegetarian restaurant. [Email us](mailto:srccon@opennews.org) if you’d like to join or need to make any changes.
 
 **Can I go to a restaurant not on the list?**  
 

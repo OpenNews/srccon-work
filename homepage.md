@@ -8,8 +8,6 @@ permalink: /index.html
 
 <h2 class="leader">If we’re going to transform newsroom code and culture, we need to invest in the people who do the work.</h2>
 
-
-
 {% include live_sessions_table.html %}
 
 SRCCON:WORK Attendees, welcome to Philly!
