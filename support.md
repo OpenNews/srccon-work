@@ -10,7 +10,7 @@ bylineurl: https://www.flickr.com/photos/pmillera4/8267602001/
 permalink: /support/index.html
 ---
 
-
+<p class="safety"><b>SRCCON SAFETY HELPLINE:</b> Members of the conference team will be available via voice or text at <b>(612) 584-1131</b>, or by email at <b><a href="mailto:srccon@opennews.org">srccon@opennews.org</a></b>.</p>
 
 The spirit of generosity that animates this community is a big part of what lead to SRCCON and this version of SRCCON in particular. We heard again and again that folks wanted to have space to share with and support one another. We know we're going to be tackling some challenging topics over these two days, so we wanted to share some reminders about making sure you can take care of yourself, while you take care of each other.
 
@@ -18,7 +18,7 @@ The spirit of generosity that animates this community is a big part of what lead
 * **"Put on your mask first before assisting others."** It's advice many of us may set aside in our daily life. For these two days, we want you to be able to put yourself and your needs first.
 * **Listen to yourself.** We've created a schedule and brought in a lot of snacks and drinks so if you're body is telling you something, you can find that sustenance, breath mint, or more. We encourage you to listen to other needs you may have too--feeling an urge to stretch? Feeling your neck tense up? Want to go for an impromptu walk? Do it. Garden 2 is also available as a quiet room if you need a space to decompress.
 * **You do not need to ask permission to meet your own needs.** With this event, we have "the rule of mobility:" if you aren’t participating in a session, or no longer want to participate, you can and should go elsewhere to a session where you can contribute. You don't have to ask or apologize or delay. Just get up and go.
-* **You have support, we are here for you.** You're likely to find folks who are facing similar challenges and are available to strategize or distract, if that's what you need. You can lean on this community and network. You are not in this work alone. If you need someone to talk to, the [support team]#team is here for anyone who—for any reason—would like to take a moment to process something that comes up anytime during our program.
+* **You have support, we are here for you.** You're likely to find folks who are facing similar challenges and are available to strategize or distract, if that's what you need. You can lean on this community and network. You are not in this work alone. If you need someone to talk to, the [support team](#team) is here for anyone who—for any reason—would like to take a moment to process something that comes up anytime during our program.
 
 ## Taking care of each other
 We hope you're feeling an openness to taking care of your own needs as the priority here. We hope with your own feeling of care and nourishment, that will also open up space to take care of each other as well.

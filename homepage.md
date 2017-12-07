@@ -10,11 +10,11 @@ permalink: /index.html
 
 {% include live_sessions_table.html %}
 
-SRCCON:WORK is coming up at the Chemical Heritage Foundation in Philadelphia on December 7-8. We have a slate of talks planned on careers, teamwork, and care along with collaborative sessions that dig into the themes.
+SRCCON:WORK Attendees, welcome to Philly!
 
-**[The schedule is now live!](/schedule)**
+We are so glad to have you here with us. If you need logistics info, [we have you covered](/logistics) and of course the handy, mobile-friendly [schedule app](http://schedule.work.srccon.org) is available for all your session planning needs. The registration desk in the lobby will be staffed throughout the event, and our safety and support helpline is **(612) 584-1131**.
 
-If you're preparing to attend, we have a bunch of details on the [logistics page](/logistics). You can also hear from our speakers, who [chatted with Source](https://source.opennews.org/articles/tags/srcconwork-q-a_1/) about their work and what they'll be sharing with us.
+If you’re not here with us in Philly, we invite you to check out our [**remote-participation options**](/transcription).
 
 ## What is SRCCON:WORK?
 
