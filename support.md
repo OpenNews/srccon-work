@@ -10,7 +10,7 @@ bylineurl: https://www.flickr.com/photos/pmillera4/8267602001/
 permalink: /support/index.html
 ---
 
-<p class="safety"><b>SRCCON SAFETY HELPLINE:</b> Members of the conference team will be available via voice or text at <b>(612) 584-1131</b>, or by email at <b><a href="mailto:srccon@opennews.org">srccon@opennews.org</a></b>.</p>
+<p class="safety"><b>SRCCON SAFETY HELPLINE:</b> If you would like any support after the event, please email us at <b><a href="mailto:srccon@opennews.org">srccon@opennews.org</a></b>.</p>
 
 The spirit of generosity that animates this community is a big part of what lead to SRCCON and this version of SRCCON in particular. We heard again and again that folks wanted to have space to share with and support one another. We know we're going to be tackling some challenging topics over these two days, so we wanted to share some reminders about making sure you can take care of yourself, while you take care of each other.
 
@@ -47,7 +47,7 @@ If you feel that another SRCCON:WORK attendee is inappropriately relying on othe
 <span id="team"></span>
 ## The Support Team
 
-We will have a support team on call if—for any reason—you would like to take a moment to process something that comes up anytime during the conference. You can find anyone wearing a SRCCON:WORK t-shirt or text the safety helpline (<b>(612) 584-1131</b>, it is also on the back of your conference badge) and a support team member will come find you.
+We will have a support team on call if—for any reason—you would like to take a moment to process something that comes up anytime during the conference. You can find anyone wearing a SRCCON:WORK t-shirt or text the safety helpline (on the back of your conference badge) and a support team member will come find you.
 
 Both the support and safety team are available all day Thursday, through the evening, and until closing on Friday. While we are not equipped to be your therapist, we are here for you.
 
