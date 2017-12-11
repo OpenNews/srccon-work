@@ -47,7 +47,7 @@ If you feel that another SRCCON:WORK attendee is inappropriately relying on othe
 <span id="team"></span>
 ## The Support Team
 
-We will have a support team on call if—for any reason—you would like to take a moment to process something that comes up anytime during the conference. You can find anyone wearing a SRCCON:WORK t-shirt or text the safety helpline (<b>(612) 584-1131</b>, it is also on the back of your conference badge) and a support team member will come find you.
+We will have a support team on call if—for any reason—you would like to take a moment to process something that comes up anytime during the conference. You can find anyone wearing a SRCCON:WORK t-shirt or text the safety helpline (on the back of your conference badge) and a support team member will come find you.
 
 Both the support and safety team are available all day Thursday, through the evening, and until closing on Friday. While we are not equipped to be your therapist, we are here for you.
 
