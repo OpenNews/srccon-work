@@ -10,7 +10,7 @@ bylineurl: https://www.flickr.com/photos/pmillera4/8267602001/
 permalink: /support/index.html
 ---
 
-<p class="safety"><b>SRCCON SAFETY HELPLINE:</b> Members of the conference team will be available via voice or text at <b>(612) 584-1131</b>, or by email at <b><a href="mailto:srccon@opennews.org">srccon@opennews.org</a></b>.</p>
+<p class="safety"><b>SRCCON SAFETY HELPLINE:</b> If you would like any support after the event, please email us at <b><a href="mailto:srccon@opennews.org">srccon@opennews.org</a></b>.</p>
 
 The spirit of generosity that animates this community is a big part of what lead to SRCCON and this version of SRCCON in particular. We heard again and again that folks wanted to have space to share with and support one another. We know we're going to be tackling some challenging topics over these two days, so we wanted to share some reminders about making sure you can take care of yourself, while you take care of each other.
 
