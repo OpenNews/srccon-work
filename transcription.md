@@ -12,7 +12,7 @@ SRCCON:WORK is an intentionally small event, but we also care about getting the 
 
 ## Transcription
 
-Our captioner will provide live transcription of all our talks at SRCCON:WORK, and links to the archives will remain below. We'll also transcribe several sessions for publication later on.
+Live transcription of all our talks at SRCCON:WORK are below. We'll also transcribe several sessions for publication later on.
 
 <div>
     <h3>Thursday</h3>
