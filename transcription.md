@@ -34,4 +34,4 @@ Live transcriptions of all our talks at SRCCON:WORK are below. We also transcrib
 
 ## Write-Ups
 
-In the leadup to SRCCON:WORK, we’re featuring [Q&As with our conference speakers](https://source.opennews.org/articles/tags/srcconwork-q-a/). After the event wraps, we'll be publishing session writeups, resource lists, and more [on Source](https://source.opennews.org)—[hop on the Source newsletter](https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc) if you'd like a digest of those links, plus highlights from the community, as they come out.
+In the leadup to SRCCON:WORK, we’re featuring [Q&As with our conference speakers](https://source.opennews.org/articles/tags/srcconwork-q-a/). We'll be publishing session writeups, resource lists, and more [on Source](https://source.opennews.org) over the next few months—[hop on the Source newsletter](https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc) if you'd like a digest of those links, plus highlights from the community, as they come out.
