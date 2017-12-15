@@ -14,7 +14,7 @@ If you’d like to revisit our talks, check out [our talk transcriptions](/trans
 
 ## What is SRCCON:WORK?
 
-SRCCON:WORK will explore how we as a community can make journalism more inclusive, representative, and responsive. This new, two-day event builds on conversations emerging from SRCCON, our hands-on conference that gathers members of the news-code community each year to take on ideas that push newsrooms forward.
+SRCCON:WORK explored how we as a community can make journalism more inclusive, representative, and responsive. This new, two-day event took place Dec. 7-8, 2017, in Philadelphia, building on conversations emerging from SRCCON, our hands-on conference that gathers members of the news-code community each year to take on ideas that push newsrooms forward.
 
 Many of the biggest problems we face aren’t technical at all, so the program at SRCCON:WORK took a deeper look at these themes:
 

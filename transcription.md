@@ -12,7 +12,7 @@ SRCCON:WORK is an intentionally small event, but we also care about getting the 
 
 ## Transcription
 
-Live transcription of all our talks at SRCCON:WORK are below. We'll also transcribe several sessions for publication later on.
+Live transcriptions of all our talks at SRCCON:WORK are below. We also transcribed several sessions, and may publish those alongside writeups on [Source](https://source.opennews.org) in the coming weeks.
 
 <div>
     <h3>Thursday</h3>
