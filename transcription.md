@@ -12,13 +12,13 @@ SRCCON:WORK is an intentionally small event, but we also care about getting the 
 
 ## Transcription
 
-Live transcriptions of all our talks at SRCCON:WORK are below. We also transcribed several sessions, and may publish those alongside writeups on [Source](https://source.opennews.org) in the coming weeks.
+Live transcriptions of all our talks at SRCCON:WORK are below. We also transcribed several sessions, and will publish some of those here or alongside writeups on [Source](https://source.opennews.org) in the coming weeks.
 
 <div>
     <h3>Thursday</h3>
     <table>{% assign thursday = site.data.schedule | where:"day","Thursday" %}
 {% for session in thursday %}
-        {% if session.transcription != "" %}<tr><td>{{ session.time }}</td><td><a href="https://aloft.nu/srccon-work/srcconwork-2017-{{ session.id }}">{{ session.title }}</a></td></tr>{% endif %}
+        {% if session.transcription != "" %}<tr><td>{{ session.time }}</td><td><a href="/transcripts/SRCCONWORK2017-{{ session.id }}">{{ session.title }}</a></td></tr>{% endif %}
 {% endfor %}
     </table>
 </div>
@@ -27,7 +27,7 @@ Live transcriptions of all our talks at SRCCON:WORK are below. We also transcrib
     <h3>Friday</h3>
     <table>{% assign friday = site.data.schedule | where:"day","Friday" %}
 {% for session in friday %}
-        {% if session.transcription != "" %}<tr><td>{{ session.time }}</td><td><a href="https://aloft.nu/srccon-work/srcconwork-2017-{{ session.id }}">{{ session.title }}</a></td></tr>{% endif %}
+        {% if session.transcription != "" %}<tr><td>{{ session.time }}</td><td><a href="/transcripts/SRCCONWORK2017-{{ session.id }}">{{ session.title }}</a></td></tr>{% endif %}
 {% endfor %}
     </table>
 </div>
