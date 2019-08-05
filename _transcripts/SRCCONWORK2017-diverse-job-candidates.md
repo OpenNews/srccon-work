@@ -8,7 +8,7 @@ background: remote
 ---
 # Small things you can do to attract a more diverse pool of job candidates TODAY
 
-### Session facilitator(s): Chao Li, Stefania Sicurelli
+### Session facilitator(s): Chao Li, Stef S.
 
 ### Day & Time: Thursday, Dec. 7, 2017, at 12:15pm
 
