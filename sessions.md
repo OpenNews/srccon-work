@@ -1,0 +1,149 @@
+---
+layout: layout
+title: Sessions at SRCCON:WORK
+subtitle: Our collaborative sessions lead discussions and project development around teamwork, careers, and care.
+section: sessions
+sub-section: interior
+background: sessions
+byline: Erik Westra
+permalink: /sessions/index.html
+---
+
+Sessions at SRCCON:WORK are [collaborative and hands-on](/sessions/about), a chance to draw on the experiences of every attendee and work together to take on hard problems in journalism. Our schedule will explore many approaches to teamwork, careers, and care through the sessions listed below, as well as a [series of talks](/talks) that introduce each theme. [You can check out the schedule now!](/schedule)
+
+We'll continue to update descriptions between now and our conference, Dec. 7 & 8 in Philadelphia. Huge thanks to all who submitted proposals, and to the community panel that helped us during the review process.
+
+<div class="session-proposal-list">    
+    <h2>Thursday AM: Hiring & Career Growth</h2>
+    <div class="session-proposal" id="proposal-1">
+        <h2 class="session-title"><a href="#proposal-1">A mentor will get you coffee. A sponsor will get you a promotion. <span class="permalink">&para;</span></a></h2>
+        <p class="facilitator">Facilitated by <a href="https://twitter.com/therealeringrau">Erin Grau</a> &amp; Cindy Taibi</p>
+        <p>Both mentorship and sponsorship are important for career advancement. Mentors provide guidance and coaching. But sponsors endorse and advocate. Employees with sponsors earn higher profile assignments, have more advancement opportunities, and stay at companies longer. In addition to the personal benefit, all (smart, modern) companies want to create a more robust and diverse pipeline of leaders, and sponsorship is an effective way to develop diverse, homegrown talent. </p>
+        <p>In the session, we’ll explore the difference between mentorship and sponsorship, discuss what makes a successful sponsor, how proteges can get the most out of sponsorship, how to create a sponsorship program like the one we’re piloting at The Times.</p>
+    </div>
+    <div class="session-proposal" id="proposal-2">
+        <h2 class="session-title"><a href="#proposal-2">Boosting Careers Without the Ladder <span class="permalink">&para;</span></a></h2>
+        <p class="facilitator">Facilitated by <a href="https://twitter.com/tylermachado">Tyler Machado</a> &amp; <a href="https://twitter.com/thejqs">Jacob Sanders</a></p>
+        <p>At most media outlets, skillsets are evolving way faster than org charts and job descriptions are. Many of us news nerds see ourselves as data journalists, UX designers, etc., even if our actual role is something else – web producers, beat reporters, perhaps the dreaded catch-all techie computer person. How do we stay on track toward career goals if our day job isn’t in total alignment with them, particularly if we can’t or don’t want to quit said job? And what can managers do to nurture ambitious employees and utilize their skills, even where there’s no obvious pipeline but plenty of gruntwork that still needs doing? You’ll go back to your newsroom with strategies to take next steps on these challenges.</p>
+    </div>
+    <div class="session-proposal" id="proposal-5">
+        <h2 class="session-title"><a href="#proposal-5">Internships (hiring processes and beyond) can change lives—let's not mess it up. <span class="permalink">&para;</span></a></h2>
+        <p class="facilitator">Facilitated by <a href="https://twitter.com/BritRenee_">Brittany Mayes</a></p>
+        <p>Hiring is hard, and we all know that. But, it’s important at every level—intern or full-time. And let’s face it: if your intern hiring processes are crap, your full-time hiring processes probably are, too. Let’s break down three important things: 1.) The intern hiring process: the best processes to hire interns. Where to look for candidates, whether or not to pre-send interview questions, if reviewers should use rubrics and why sending intern feedback may take time but is imperative for growth. 2.) The internship: let’s encourage interns to get the most out of their time with us. Should we do a pre-interview, make a work plan and/or pre-plan professional opportunities? 3.) The future: why these practices could define your future workforce. If we invest in making our interns diverse and well-equipt for the workforce, we could potentially invest in a more diverse and robust newsroom. Additionally, these practices aren’t just for interns—some can be applied to the process for full-time hires as well. These are just some of the things I’d like to discuss in my session about the importance of intern-hiring and how it could change the future of a company, and moreover, the future of an individual who might have otherwise not had an opportunity like this.</p>
+    </div>
+    <div class="session-proposal" id="proposal-19">
+        <h2 class="session-title"><a href="#proposal-19">Like a boss <span class="permalink">&para;</span></a></h2>
+        <p class="facilitator">Facilitated by <a href="https://twitter.com/kleinmatic">Scott Klein</a> &amp; <a href="https://twitter.com/kainazamaria">Kainaz Amaria</a></p>
+        <p>How do we build and foster lasting teams and do great work, with no blueprint, no peers, and no guarantee our teams will stay together after we leave?</p><p>Most news desks have been around a long time. They enjoy a historical continuity going back decades if not a century. Take the Metro Desk: It may take on new roles and responsibilities, and rethink a lot of their coverage, but the basic workings of the department are, for the most part, inherited. And when one Metro editor leaves, another takes her place and operates in a pretty similar way.</p><p>But that’s not how things work for hybrid newsroom teams, like the ones that integrate data, images, graphics, video and code. There’s no set of established guidelines for being their editor – for elevating their work or for making sure they get to do the great journalism they should be doing. Many new editors need to figure things out for themselves.</p><p>And when leaders leave, innovative newsroom teams are often victims of restructuring and destructive “reconceptualizations.” The fact is, the Metro desk doesn’t need to worry that it will be disbanded because its editor leaves. The news apps and visuals teams do.</p><p>Let’s talk about how to start something new – and how to make it forever:</p>
+        <ul>
+          <li>How to bootstrap and then keep building a team.</li>
+          <li>How to manage up to executives and out to other departments.</li>
+          <li>How to develop allies so you know about projects that need you before you see them published.</li>
+          <li>How to teach and evangelize your team’s culture and working style to more traditional editors and reporters.</li>
+          <li>How to set long-term goals for the work and share them with your staff.</li>
+          <li>How to support members on your team who work outside your discipline.</li>
+          <li>For non-managers, how to measure the political winds, how to set yourself up to move up, and what to expect from your manager and your newsroom.</li>
+        </ul>
+        <p>None of us knows all the answers. This is all a work in progress. Let’s learn from each other here so we don’t keep repeating this process from scratch. This is a conversation for managers, for people who want to be managers, and for people who’d like to be managed well.</p>
+    </div>
+    <div class="session-proposal" id="proposal-9">
+        <h2 class="session-title"><a href="#proposal-9">Onboarding before Day 1 <span class="permalink">&para;</span></a></h2>
+        <p class="facilitator">Facilitated by <a href="https://twitter.com/mkramer">Melody Kramer</a></p>
+        <p>You’ve made your hire. How do you make them feel welcome? What do they need to know before they show up? This will be an interactive hands-on workshop in which we’ll explore ways to disseminate information (without overwhelming an applicant), things that made us feel welcome in our workplaces, and ways to convey mentorship/opportunity even before the first day. </p>
+    </div>
+    <div class="session-proposal" id="proposal-12">
+        <h2 class="session-title"><a href="#proposal-12">Small things you can do to attract a more diverse pool of job candidates TODAY <span class="permalink">&para;</span></a></h2>
+        <p class="facilitator">Facilitated by <a href="https://twitter.com/cli6cli6">Chao Li</a> &amp; Stef S.</p>
+        <p>After a rocky start in hiring multiple engineering roles at Group Nine Media, Stef and I decided to do an overhaul of our hiring processes in order to attract a more diverse pool of candidates. The results were immediate. In this session, we’d like to take you through how we turned things around by sharing how we approached writing a job description and talk about some of the tools/resources we used to diversify our pool of applicants.</p>
+    </div>
+    
+    
+    <h2>Thursday PM: Mental Health & Self-care</h2>
+    <div class="session-proposal" id="proposal-18">
+        <h2 class="session-title"><a href="#proposal-18">Mental health in the newsroom: Creating systems of support for ourselves and our colleagues <span class="permalink">&para;</span></a></h2>
+        <p class="facilitator">Facilitated by Christine Stapleton</p>
+        <p>It’s easy to jump in when a colleague needs help troubleshooting code or fixing a broken lede, but most of us don’t feel nearly as equipped to support someone dealing with depression or addiction. As journalists, we’re not just observers of the human condition—we have to wrestle with it like anyone else, so let’s talk about perspectives:</p>
+        <ul>
+          <li>as a person who’s struggling, and having a hard enough time admitting it to ourselves, let along the people we work with</li>
+          <li>as a coworker who doesn’t want to be intrusive, but <em>does</em> want to be there to for someone who needs help</li>
+        </ul>
+        <p>How do we figure out when it’s appropriate to discuss personal information, and how much? If everyone has a pop-culture understanding of conditions like OCD or anxiety, how do we talk about an actual clinical diagnosis? How do we seek out—or serve as—a “spotter,” who can help identify the situations that might lead to crisis? This session will be an off-the-record conversation on ways to support each other in getting and staying healthy, and strategies for getting past the stigma of talking about mental health.</p>
+    </div>
+    <div class="session-proposal" id="proposal-8">
+        <h2 class="session-title"><a href="#proposal-8">Objectivity in the Modern Newsroom AKA minority journalists vs. Climate of Hate <span class="permalink">&para;</span></a></h2>
+        <p class="facilitator">Facilitated by <a href="https://twitter.com/lobenichou">Lo Bénichou</a> &amp; <a href="https://twitter.com/lamthuyvo">Lam Thuy Vo</a></p>
+        <p>For decades, journalists have adhered to ethical codes of conduct that prevented them from taking political stances. These rules were established at a time when diversity in newsrooms was not nearly as prominent of an issue as it is now and when journalists did not have social media accounts. Now that Donald Trump is president and now that the issue of diversity in newsrooms is on everyone’s mind, we want to look at the future of these codes. 
+What does it mean to be an immigrant in a newsroom when the president has based much of his campaign on anti-immigrant sentiments? How does a transgender reporter  take personal politics out of their job when legislative steps are encroaching on their everyday rights? 
+In this session, we present and discuss codes of conduct from various newsrooms before splitting up into groups and writing one together, one that will take into account the reality of modern journalism. </p>
+    </div>
+    <div class="session-proposal" id="proposal-13">
+        <h2 class="session-title"><a href="#proposal-13">The Pursuit of Newsroom Happiness: How to Bring More Joy to Your Workplace <span class="permalink">&para;</span></a></h2>
+        <p class="facilitator">Facilitated by <a href="https://twitter.com/terabithia4">Amy L. Kovac-Ashley</a></p>
+        <p>Newsrooms have never been described as particularly happy workplaces. But morale has taken a large hit in the last decade as layoffs, financial contraction and constant change have increased the pressure on newsrooms to produce more - almost to the point of exhaustion. Those are the not the ingredients for a happy workplace, and they are mostly out of our control. So how can we as individuals try to make our newsrooms more joyful, energizing places to be? We’ll look at some of the research about workplace happiness across industries and come up with strategies for how to improve our experiences at the places where we spend 40-plus hours each week.</p>
+    </div>
+    <div class="session-proposal" id="proposal-17">
+        <h2 class="session-title"><a href="#proposal-17">What’s next: How to nurture growth in the face of burnout <span class="permalink">&para;</span></a></h2>
+        <p class="facilitator">Facilitated by <a href="https://twitter.com/kaeti">Kaeti Hinck</a> &amp; <a href="https://twitter.com/millie">Millie Tran</a></p>
+        <p>In the cage match between day-to-day survival and long-term goals, who comes out on top? How do we get past treading water at work and move toward what we want next? And how do we even figure out what that is when we’re overwhelmed and overworked? In this session we’ll explore how to create space for longer term goals, and brainstorm specific ways to balance the short and long term in our daily work.</p>
+    </div>
+        
+    
+    <h2>Friday AM: Collaboration & Teamwork</h2>
+    <div class="session-proposal" id="proposal-3">
+        <h2 class="session-title"><a href="#proposal-3">Dot your i’s and cross your teams:  Building interdisciplinary design &amp; tech teams for better news orgs <span class="permalink">&para;</span></a></h2>
+        <p class="facilitator">Facilitated by <a href="https://twitter.com/alexislloyd">Alexis Lloyd</a> &amp; <a href="https://twitter.com/heyemmahey">Emma Schwartz</a></p>
+        <p>Technology &amp; design teams in news organizations are often highly siloed, disparate not only from one another but also within each discipline. Distinct groups handle design and development, product design and editorial design, data visualization and branding. What advantages do we gain by building interdisciplinary teams that allow for better cross-functional collaboration? What does it mean to do this at the organizational level and not just for one-time projects? What does a cross-disciplinary team look like in practice? How do we reap the benefits of this kind of team collaboration and what are the unique challenges? We will discuss how we’ve intentionally been building cross-disciplinary design and technology teams at Axios, review the benefits we’ve seen, and lead a broader discussion about how to make the most of working closely with others who have different processes and perspectives.</p>
+    </div>
+    <div class="session-proposal" id="proposal-4">
+        <h2 class="session-title"><a href="#proposal-4">Herding cats while being a cat <span class="permalink">&para;</span></a></h2>
+        <p class="facilitator">Facilitated by <a href="https://twitter.com/nakedsushi">Louise Yang</a></p>
+        <p>Managing developers can sometimes feel like herding cats.  If you wear a developer hat as well as a manager hat, how do you split your time and workload?  In this session, we discuss strategies for balancing our own software development responsibilities as well as our management responsibilities. </p>
+    </div>
+    <div class="session-proposal" id="proposal-7">
+        <h2 class="session-title"><a href="#proposal-7">Not All Leaders Are Managers: How to Lead from the Middle <span class="permalink">&para;</span></a></h2>
+        <p class="facilitator">Facilitated by <a href="https://twitter.com/emmacarew">Emma Carew Grovum</a> &amp; <a href="https://twitter.com/kimbui">Kim Bui</a></p>
+        <p>We’re both middles: folks who somehow ended up in leadership positions after coming up in a turbulent time of rapid change for newsrooms. Sometimes we’re managers, sometimes we’re not. But still, it’s possible to develop leadership skills and contribute leadership  to your news organization, no matter where you sit on the org chart. We have some thoughts on leadership and how it does/doesn’t relate to management (we believe anyone can be a leader!), and we want to hear how others are leading from wherever you are.</p>
+    </div>
+    <div class="session-proposal" id="proposal-10">
+        <h2 class="session-title"><a href="#proposal-10">Remotely effective: a guide to thriving newsrooms collaborations from afar <span class="permalink">&para;</span></a></h2>
+        <p class="facilitator">Facilitated by <a href="https://twitter.com/livlab">Livia Labate</a></p>
+        <p>Between the pressures of news cycles, editorial priorities and evolving audience habits, newsrooms struggle to prioritize establishing a work environment conducive to great journalism. While remote work introduces great flexibility for employer and employee, it further exacerbates some of these challenges, and can limit one’s ability to thrive as well as the newsroom’s ability to make the most of the talent they recruit.</p><p>With the goal of creating a concrete artifact (some type of reference material, like a guide) for employers and individuals on how to establish a thriving remote work relationship for newsrooms, participants in this workshop will contribute their experiences of positive and negative remote working arrangements and shape how these insights should be shared with newsrooms, co-located team members and new remote contributors.</p><p>Dreaming big: If time allows, an even better possibility is conducting a survey <em>before</em> SRCCON:WORK on remote practices in newsrooms so participants can spend their time augmenting community findings rather than starting from scratch.</p><p>Dreaming bigger: in addition to publishing the final artifact on Source, further work would include finding the right channels and settings to reach newsrooms managers and HR teams to directly share and advocate good practices.</p>
+    </div>
+    <div class="session-proposal" id="proposal-11">
+        <h2 class="session-title"><a href="#proposal-11">Say what?! Play your way toward having better conversations with colleagues from other departments <span class="permalink">&para;</span></a></h2>
+        <p class="facilitator">Facilitated by <a href="https://twitter.com/sashak">Sasha Koren</a> &amp; <a href="https://twitter.com/schmalie">Sarah Schmalbach</a></p>
+        <p>Have you ever been in a meeting or overheard a conversation where you only understood every other word? Or have you ever been in the middle of a conversation with a colleague from another department and realized they misinterpreted what you had been trying to convey? You’re not alone.</p><p>One of the impacts that technology has had on the news business is the rapid, chaotic expansion of the vocabulary needed to collaborate, be successful and thrive in the digital era. Editors, product managers, technologists, and others often come into conversations representing different cultures and using different words to describe what they do. That can be alienating to others, and slow down conversations about strategy or collaboration. For example:</p>
+        <ul>
+          <li>Did the OKR team hit their KPIs?</li>
+          <li>Are you on Polymer yet?</li>
+          <li>How many sources do you have on background?</li>
+          <li>What part of the funnel will that target?</li>
+        </ul>
+        <p>Learn how to navigate this complicated new landscape of vocabulary words while we play a few rounds of news organization Balderdash, a “board game of bluffing” where we each attempt to define the terms our colleagues are using in the office, and see how often we hit the mark. (We’d love your help collecting phrases you use every day, especially ones your colleagues might not understand. <a href="https://docs.google.com/spreadsheets/d/118mKhxDNHx6GB_K-YSH6ZIgdSTTQxybAMrxUbgPCNBA/edit#gid=2014690918">Drop your ideas here</a>!)</p><p>We’ll leave time for brainstorming about ways to improve conversations among colleagues from a variety of backgrounds.</p>
+    </div>
+    <div class="session-proposal" id="proposal-16">
+        <h2 class="session-title"><a href="#proposal-16">What do you really think? How to create a culture of critique and produce better work <span class="permalink">&para;</span></a></h2>
+        <p class="facilitator">Facilitated by <a href="https://twitter.com/hannahjwise">Hannah Wise</a> &amp; <a href="https://twitter.com/katiehawk">Katie Hawkins-Gaar</a></p>
+        <p>Feedback is necessary for improvement. But in today’s fast-paced newsrooms, it can be hard to carve out the time for it. And developers, designers and journalists can be so passionate about their work that any criticism feels like a personal attack. </p>
+        <p>Without a culture of critique, the journalism industry is missing out. We lack the skills to deliver valuable and constructive feedback, missing out on valuable opportunities to improve projects, stories and other initiatives. In this session, we’ll offer ways to bring design thinking into the newsroom and, through group exercises and discussion, break down the benefits of critique. We’ll share feedback experiences, does and don’ts, and ways we can create a culture of critique in our own newsrooms that result in better work for our audiences.</p>
+    </div>
+    
+    
+    <h2>Friday PM: What Comes Next</h2>
+    <div class="session-proposal" id="proposal-6">
+        <h2 class="session-title"><a href="#proposal-6">More bibles, fewer priests: Tools for building self-managing teams <span class="permalink">&para;</span></a></h2>
+        <p class="facilitator">Facilitated by <a href="https://twitter.com/brianboyer">Brian Boyer</a></p>
+        <p>A lot of managers see themselves at the center of the team’s universe – the lynchpin, making the decisions, every day. And that’s a great way to burn out, stifle the growth of your teammates, and totally avoid thinking about the important stuff, like the <em>future</em>. So, forget that! Let’s talk about the tools and techniques you can use to make yourself non-essential. (Also good for non-managers who have bosses that are making poor choices.)</p>
+    </div>
+    <div class="session-proposal" id="proposal-14">
+        <h2 class="session-title"><a href="#proposal-14">The starting a new job survival kit <span class="permalink">&para;</span></a></h2>
+        <p class="facilitator">Facilitated by <a href="https://twitter.com/emamd">Armand Emamdjomeh</a></p>
+        <p>These days, journalism careers aren’t typically working at an organization for 30 years and retiring with a gold watch and a pension. More likely, they’re composed of shorter stints at different organizations, in and out of the journalism world. Let’s talk about the challenges you face as you adapt to a new role and a new organization. You might feel a lot of self-doubt as you start from scratch, feeling like you have to prove yourself all over again. </p>
+        <p>On the other side of the coin, let’s talk about being on a team and welcoming a new person into your organization. You might have your own doubts. Is this person going to be a threat? A burden? How can you address these insecurities, while making the transition easier for them? Meanwhile as a manager, what responsibility do you have and what can you do to ensure things go smoothly?</p>
+    </div>
+    <div class="session-proposal" id="proposal-15">
+        <h2 class="session-title"><a href="#proposal-15">Vision &amp; Goals Workshop <span class="permalink">&para;</span></a></h2>
+        <p class="facilitator">Facilitated by <a href="https://twitter.com/jessicakosturko">Jessica Kosturko</a></p>
+        <p>The Vision &amp; Goals Workshop is an interactive session to create your goals based on proven goal-setting techniques. You will learn how to align your actions towards accomplishing big-picture goals and get started with steering your career path.</p><p>Past participants in the workshop from the company’s Digital Mentorship Program, Women’s Network, and the Young Professionals Network at New York Times have reported success in reaching their personal and professional goals, so join us to see what’s possible for you!</p>
+    </div>
+</div>
